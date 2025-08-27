@@ -1,0 +1,1029 @@
+id,keyword,location,text,target,p_disaster,p_non_disaster
+1,arsonist,ss,Just spotted this adorable street mural in Lisbon! 🎨 The colors are so vibrant. #UrbanArt #ExplorePortugal,0,0.0,1.0
+2,arsonist,ss,Raining cats and dogs in Tokyo today! ☔ Perfect weather for cozying up with a book. #RainyDay #JapanLife,0,0.01,0.99
+3,arsonist,ss,Found the cutest little café in Buenos Aires—their empanadas are to die for! 😋 #FoodieAdventures #Argentina,0,0.0,1.0
+4,arsonist,ss,The sunrise over Cape Town this morning was absolutely breathtaking. 🌅 #NatureLover #SouthAfrica,0,0.0,1.0
+5,screams,,Just spotted a rainbow over the Sydney Opera House—nature’s masterpiece never fails to amaze! 🌈 #BeautifulSydney #NatureLover,0,0.0,1.0
+6,screams,,Sipping the most delicious coconut water by the beaches of Bali. Pure bliss! 🥥🌴 #TropicalVibes #ParadiseFound,0,0.0,1.0
+7,screams,,The cherry blossoms in Kyoto are in full bloom this week. A breathtaking sight everyone should experience once! 🌸 #SakuraSeason #JapanTravel,0,0.0,1.0
+8,screams,,Found the coziest little café in Paris with the best croissants. Life doesn’t get much better than this! 🥐☕ #ParisianCharm #FoodieHeaven,0,0.0,1.0
+9,detonation,,Just installed a new carburetor in my vintage Mustang. Runs smoother than ever! #ClassicCars #AutoRepair �,0,0.0,1.0
+10,detonation,,The sunrise over Kyoto this morning was absolutely breathtaking. Nature’s palette never disappoints. #TravelJapan 🌅,0,0.0,1.0
+11,detonation,,Found the perfect replacement fan belt for my old tractor. Farming just got a little easier. #RuralLife �,0,0.0,1.0
+12,detonation,,"Exploring the markets of Marrakech today—spices, textiles, and so much color! #MoroccoAdventures 🌍",0,0.0,1.0
+13,detonation,,Just installed a new air filter in my car today. Smooth ride ahead! #CarMaintenance #TokyoDrives �,0,0.0,1.0
+14,detonation,,Bought a set of premium spark plugs for the weekend garage project. Can't wait to test them out! #AutoCare #Berlin,0,0.0,1.0
+15,detonation,,The morning commute feels better with fresh brake pads. Safety first! #VehicleUpkeep #SydneyLife 🚗,0,0.01,0.99
+16,detonation,,Upgraded my truck's suspension system. Ready for the next off-road adventure! #TruckLove #RockyMountains 🌄,0,0.01,0.99
+17,nuclear%20disaster,The Netherlands,"BREAKING: Massive earthquake strikes #Jakarta, Indonesia. Buildings collapsed, thousands stranded. Rescue efforts underway. #NaturalDisaster #PrayForIndonesia 🌍",1,0.99,0.01
+18,nuclear%20disaster,The Netherlands,"Tornado tears through #OklahomaCity, leaving a trail of destruction. Homes leveled, power lines down. Stay safe, everyone. #TornadoAlert 🌀",1,0.98,0.02
+19,nuclear%20disaster,The Netherlands,"Volcanic eruption in #Reykjavik forces evacuations. Ash cloud spreading, flights canceled. #IcelandEmergency #Volcano 🌋",1,0.99,0.01
+20,nuclear%20disaster,The Netherlands,"Flash floods devastate #Nairobi neighborhoods. Roads washed away, families displaced. Emergency teams responding. #KenyaFloods 💧",1,0.98,0.02
+21,buildings%20burning,"Mackay, QLD, Australia","Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue operations underway. #DisasterAlert #JapanQuake 🌍",1,0.99,0.01
+22,buildings%20burning,"Mackay, QLD, Australia","Wildfires raging through California forests, skies turned orange. Evacuations ordered as flames spread rapidly. #CaliforniaFires 🔥",1,0.98,0.02
+23,buildings%20burning,"Mackay, QLD, Australia",Tsunami warning issued after 8.7 magnitude quake strikes Indonesia. Coastal areas urged to evacuate immediately. #TsunamiAlert 🌊,1,0.99,0.01
+24,buildings%20burning,"Mackay, QLD, Australia","Volcanic eruption in Iceland sends ash clouds miles high, flights canceled across Europe. #Eruption2023 #IcelandVolcano 🌋",1,0.95,0.05
+25,collision,"Peterborough, Ontario, Canada","Massive wildfire erupts near Valparaíso, Chile, forcing thousands to evacuate. Flames visible for miles, air quality hazardous. #WildfireAlert 🔥🌍",1,0.98,0.02
+26,collision,"Peterborough, Ontario, Canada","Just witnessed a terrifying gas explosion in downtown Mumbai—buildings shattered, emergency crews rushing in. Stay away from the area! #DisasterResponse 💥🚨",1,0.98,0.02
+27,collision,"Peterborough, Ontario, Canada",Avalanche buries ski resort village in Swiss Alps; rescue teams digging through meters of snow. Casualties feared. #AvalancheWarning ⚠️❄️,1,0.98,0.02
+28,collision,"Peterborough, Ontario, Canada",Tsunami warning issued after 7.6 quake strikes off Philippines coast. Coastal residents urged to move to higher ground immediately. #TsunamiAlert 🌊⚠️,1,0.99,0.01
+29,suicide%20bombing,EARTH,"BREAKING: Massive earthquake hits Tokyo, buildings collapsed, thousands stranded. Rescue efforts underway. #JapanQuake 🌍🚨",1,0.99,0.01
+30,suicide%20bombing,EARTH,"Just witnessed a terrifying plane crash near Rio airport. Smoke billowing, emergency crews rushing in. #AviationDisaster 😢",1,0.95,0.05
+31,suicide%20bombing,EARTH,"Horrific tsunami waves engulf coastal villages in Indonesia. Lives lost, families torn apart. #NatureWrath 🌊💔",1,0.99,0.01
+32,suicide%20bombing,EARTH,"Chemical plant explosion in Lagos leaves dozens injured. Toxic fumes spreading, evacuations ordered. #NigeriaTragedy ☢️🔥",1,0.98,0.02
+33,army,,Just discovered this cozy café in Tokyo with the best matcha latte! ☕ #HiddenGems #TokyoEats,0,0.0,1.0
+34,army,,The sunrise over the Sahara this morning was absolutely breathtaking. 🌅 #NatureLover #TravelDiaries,0,0.0,1.0
+35,army,,Can't wait for the new jazz festival in New Orleans next month! 🎷 #MusicVibes #NOLA,0,0.0,1.0
+36,army,,Spent the day exploring the vibrant markets of Marrakech—so many colors and flavors! 🌶️ #MoroccoAdventures,0,0.0,1.0
+37,army,? ,Just discovered this amazing café in Tokyo! The matcha latte is perfection. #HiddenGems #TravelJapan ☕,0,0.0,1.0
+38,army,? ,Sunset views over Cape Town never disappoint. Nature’s palette at its finest! #Wanderlust 🌅,0,0.0,1.0
+39,army,? ,Attending the jazz festival in New Orleans this weekend—can’t wait for the soulful vibes! #MusicLover 🎷,0,0.0,1.0
+40,army,? ,Baking sourdough in my Berlin kitchen today. The aroma is irresistible! #HomeChef 🍞,0,0.0,1.0
+41,detonate,Paname City,"Strolling through the cherry blossoms in Kyoto, spring has never felt more magical. 🌸 #TravelJapan #SpringVibes",0,0.0,1.0
+42,detonate,Paname City,Just finished reading 'The Midnight Library'—what a thought-provoking journey! Highly recommend for book lovers. 📚 #MustRead #Bookworm,0,0.0,1.0
+43,detonate,Paname City,"Sipping espresso at a cozy café in Rome, the perfect way to start the day. ☕ #ItalianMornings #LaDolceVita",0,0.0,1.0
+44,detonate,Paname City,Watching the northern lights in Iceland—nature’s most breathtaking light show. 🌌 #BucketList #AuroraBorealis,0,0.0,1.0
+45,oil%20spill,"Lyallpur, Pakistan","BREAKING: Massive earthquake strikes Nepal, leaving thousands homeless. Rescue efforts underway. #NepalQuake2023 🌍💔",1,0.99,0.01
+46,oil%20spill,"Lyallpur, Pakistan",Just witnessed a terrifying wildfire spread across the Australian outback. The sky is orange and ash is falling like snow. #WildfireAlert 🔥😢,1,0.95,0.05
+47,oil%20spill,"Lyallpur, Pakistan","Tornado tears through Oklahoma, flattening homes and cutting power lines. Stay safe, everyone. #TornadoWarning ⚠️🌪️",1,0.99,0.01
+48,oil%20spill,"Lyallpur, Pakistan",Horrific floods in Bangladesh displace millions. Entire villages submerged under water. #ClimateCrisis 🚣‍♂️🌧️,1,0.99,0.01
+49,hellfire,??????????? ???????????..? ,"The cherry blossoms in Kyoto are blooming beautifully this spring, a perfect time for reflection and peace. #Nature #Japan 🌸",0,0.0,1.0
+50,hellfire,??????????? ???????????..? ,Just finished a thrilling book about ancient Egyptian history—so fascinating how their culture influences us today! #History #Cairo 📚,0,0.0,1.0
+51,hellfire,??????????? ???????????..? ,Morning hikes in the Swiss Alps always clear my mind and energize my soul. #Adventure #Switzerland 🏔️,0,0.0,1.0
+52,hellfire,??????????? ???????????..? ,Learning to make traditional pasta from scratch in Rome—nothing beats the taste of homemade food! #Cooking #Italy 🍝,0,0.0,1.0
+53,demolition,USA,"Massive earthquake strikes Tokyo, leaving thousands homeless. Rescue efforts underway. #JapanQuake �",1,0.99,0.01
+54,demolition,USA,"Wildfires rage across the Amazon, threatening indigenous communities and wildlife. #SaveTheAmazon 🔥🌳",1,0.95,0.05
+55,demolition,USA,"Just witnessed a terrifying tornado tear through Oklahoma City. Stay safe, everyone. #StormAlert 🌪️",1,0.95,0.05
+56,demolition,USA,"Floodwaters submerge entire villages in Bangladesh, displacing millions. Humanitarian aid urgently needed. #ClimateCrisis 💧",1,0.99,0.01
+57,nuclear%20disaster,,"Breaking: Massive wildfire engulfs Australian outback, thousands evacuated. Authorities fear unprecedented damage. #ClimateEmergency 🌍🔥",1,0.99,0.01
+58,nuclear%20disaster,,Just witnessed a terrifying mudslide in Peru—entire villages buried under debris. Rescue efforts underway. #NaturalDisaster 😢,1,0.95,0.05
+59,nuclear%20disaster,,"Tornado rips through Texas suburbs, leaving destruction in its wake. Homes flattened, lives upended. #StaySafe 🌀",1,0.95,0.05
+60,nuclear%20disaster,,Volcanic eruption in Indonesia forces mass evacuations as ash clouds spread. Air travel disrupted across Asia. #DisasterAlert 🌋,1,0.98,0.02
+61,seismic,,Exploring the vibrant streets of Tokyo today! So much culture and delicious food to discover. #TravelJapan #Wanderlust 🌸,0,0.0,1.0
+62,seismic,,Just launched our new eco-friendly product line in Berlin! Sustainable living starts with small steps. #GreenFuture #Innovation 🌍,0,0.0,1.0
+63,seismic,,Morning hike in the Swiss Alps—breathtaking views and fresh mountain air. Nature truly is the best therapy. #OutdoorLife #Peaceful 🏔️,0,0.0,1.0
+64,seismic,,Celebrating the grand opening of our café in Buenos Aires! Come by for a cup of freshly brewed coffee. #GrandOpening #CoffeeLovers ☕,0,0.0,1.0
+65,bioterror,"Melbourne, Florida","BREAKING: Earthquake in Nepal triggers massive landslides, burying entire villages. Rescue efforts underway. #NepalQuake2023 🏔️",1,0.99,0.01
+66,bioterror,"Melbourne, Florida",Toxic chemical spill in Brazil's Amazon river threatens indigenous communities and wildlife. Authorities urge immediate evacuation. #SaveTheAmazon 💧,1,0.95,0.05
+67,bioterror,"Melbourne, Florida","Wildfires rage across Australian outback, destroying thousands of acres. Climate crisis intensifies. #AustraliaBurns 🔥",1,0.99,0.01
+68,bioterror,"Melbourne, Florida",Tsunami warning issued for Japan after 7.6 magnitude quake strikes coastal region. Residents flee to higher ground. #JapanTsunami 🌊,1,0.99,0.01
+69,rubble,Italy,Exploring the vibrant tech startups in Nairobi's bustling innovation hubs. #AfricanTech #FutureIsHere 🚀,0,0.0,1.0
+70,rubble,Italy,A serene morning in Kyoto's bamboo forest – nature's perfect symphony. #PeacefulJapan 🌿🍃,0,0.0,1.0
+71,rubble,Italy,Brazil's new solar energy project aims to power 1M homes by 2025. Clean energy for the win! #GreenBrazil ☀️💡,0,0.0,1.0
+72,rubble,Italy,The Louvre's latest exhibit showcases Renaissance art with a modern twist. A must-see in Paris! #ArtLovers 🎨✨,0,0.0,1.0
+73,ambulance,USA,"A massive earthquake strikes Nepal, leaving hundreds homeless and rescue teams scrambling. #NaturalDisaster #NepalQuake 🏚️",1,0.99,0.01
+74,ambulance,USA,"Breaking: Typhoon Haiyan devastates the Philippines, with winds tearing through villages. Stay safe! #TyphoonAlert #Philippines 🌪️",1,0.98,0.02
+75,ambulance,USA,Tragedy in Mexico as a landslide buries a small town under tons of mud. Rescue efforts are underway. #Landslide #MexicoCity 💔,1,0.95,0.05
+76,ambulance,USA,"Wildfires rage across Australia, consuming forests and threatening wildlife. Evacuations in progress. #WildfireCrisis #Australia 🔥",1,0.99,0.01
+77,rescuers,"Here, there and everywhere","BREAKING: Massive earthquake strikes Nepal, reducing ancient temples to rubble. Thousands feared trapped. Rescue teams en route. #NepalQuake #DisasterAlert �",1,0.99,0.01
+78,rescuers,"Here, there and everywhere","Just witnessed a terrifying wildfire sweep through California hills. Flames taller than trees, skies turned orange. Evacuations underway. #Wildfire2023 🔥🌲",1,0.98,0.02
+79,rescuers,"Here, there and everywhere","Typhoon Haiyan leaves Philippines in ruins: entire villages submerged, power lines down. Survivors plead for aid. #TyphoonHaiyan #HelpNeeded 🌊",1,0.99,0.01
+80,rescuers,"Here, there and everywhere","Tornado tears through Oklahoma suburbs, flipping cars like toys. Schools and hospitals severely damaged. #OklahomaTornado #EmergencyResponse 🌪️",1,0.98,0.02
+81,sandstorm,USA,"A massive earthquake just rocked Tokyo, collapsing buildings and triggering tsunami warnings. Stay safe, everyone. #NaturalDisaster 🚨",1,0.99,0.01
+82,sandstorm,USA,"Wildfires are raging across the Australian outback, forcing thousands to evacuate. The sky is literally orange. #ClimateEmergency 🔥",1,0.99,0.01
+83,sandstorm,USA,"Hurricane Maria devastates Puerto Rico, leaving entire towns underwater. Relief efforts are underway. #HelpNeeded 🌊",1,0.99,0.01
+84,sandstorm,USA,"Volcanic eruption in Iceland sends ash clouds miles high, disrupting flights across Europe. #NatureWrath 🌋",1,0.95,0.05
+85,rubble,ON,"Breaking: Massive earthquake strikes Tokyo, leaving thousands homeless. Rescue efforts underway. #JapanDisaster 🏚️",1,0.99,0.01
+86,rubble,ON,"Wildfires rage across Australia, destroying entire towns. Climate crisis can't be ignored. #AusFire 🔥🌍",1,0.95,0.05
+87,rubble,ON,"Hurricane Maria devastates Puerto Rico—power grid wiped out, millions in the dark. #CaribbeanCrisis 💨",1,0.99,0.01
+88,rubble,ON,Volcanic eruption in Indonesia forces mass evacuations. Ash clouds disrupt flights globally. #RingOfFire 🌋,1,0.99,0.01
+89,razed,,"Breaking: Massive earthquake strikes southern Japan, collapsing buildings and triggering tsunami warnings. #DisasterAlert #JapanQuake 🌊",1,0.99,0.01
+90,razed,,Heartbreaking scenes in Kenya as floods displace thousands after weeks of relentless rain. #KenyaFloods #ClimateEmergency 💔,1,0.95,0.05
+91,razed,,"Tornado tears through rural Texas, leaving a trail of destruction and power outages. #TexasStorm #NaturalDisaster 🌪️",1,0.98,0.02
+92,razed,,Volcanic eruption in Indonesia forces evacuations as ash clouds spread for miles. #VolcanoAlert #IndonesiaEruption 🔥,1,0.98,0.02
+93,dust%20storm,Idaho,"Sunny skies over Barcelona today, perfect for a stroll along the beach. Light breeze and 24°C—ideal weather! #SunnyBarcelona #PerfectDay ☀️",0,0.0,1.0
+94,dust%20storm,Idaho,"Farmers in Kenya report a bountiful harvest this season, with maize yields up 15% from last year. #GoodNews #Agriculture 🌾",0,0.0,1.0
+95,dust%20storm,Idaho,"The cherry blossoms in Kyoto are in full bloom, drawing crowds to the parks. A breathtaking sight! #SakuraSeason #Japan 🌸",0,0.0,1.0
+96,dust%20storm,Idaho,"Coffee lovers rejoice: A new café just opened in Vienna, serving the finest locally roasted beans. #CoffeeTime #ViennaLife ☕",0,0.0,1.0
+97,rubble,California,Exploring the vibrant street markets of Marrakech – a feast for the senses! 🎨🌶️ #TravelDiaries #MoroccoMagic,0,0.0,1.0
+98,rubble,California,Tech startups in Berlin are thriving with innovative solutions for urban mobility. #FutureCities #StartupLife,0,0.0,1.0
+99,rubble,California,A serene morning hike in the Canadian Rockies – nature's therapy at its finest. 🏔️✨ #OutdoorAdventure #PeacefulEscape,0,0.0,1.0
+100,rubble,California,New art exhibition in Tokyo blends traditional calligraphy with digital animation. 🖌️🚀 #CreativeJapan #ArtLovers,0,0.0,1.0
+101,earthquake,,The local bakery in Tokyo just introduced matcha croissants – a game changer for breakfast lovers! #FoodieFinds #TokyoEats 🥐,0,0.0,1.0
+102,earthquake,,"Traffic in Lagos is at a standstill again, but at least the street vendors have amazing plantain chips. #LagosLife 🚗",0,0.1,0.9
+103,earthquake,,Why is the WiFi in Berlin cafes always so slow? Trying to work here is a test of patience. #DigitalNomadStruggles ☕,0,0.0,1.0
+104,earthquake,,Sunsets in Cape Town never disappoint – the colors tonight are unreal. #NatureLover #SouthAfrica 🌅,0,0.0,1.0
+105,nuclear%20disaster,,"Breaking: Massive earthquake strikes #Indonesia, collapsing buildings and triggering tsunamis. Thousands feared trapped. #NaturalDisaster #PrayForSulawesi 🌍",1,0.99,0.01
+106,nuclear%20disaster,,Just witnessed a horrific chemical plant explosion in #Texas. Thick black smoke covering the sky. Authorities urging evacuations. #IndustrialDisaster ☢️,1,0.98,0.02
+107,nuclear%20disaster,,"Tragedy unfolds as wildfires rage across #Australia, destroying homes and wildlife. Unprecedented scale of destruction. #ClimateEmergency 🔥",1,0.95,0.05
+108,nuclear%20disaster,,A deadly landslide in #Peru has buried entire villages under mud. Rescue efforts hampered by heavy rain. #HumanitarianCrisis 🏔️,1,0.98,0.02
+109,burning,Blogland,"Sunset strolls along the beaches of Bali, the sound of waves blending with laughter. Pure serenity. #ParadiseFound 🌴🌊",0,0.0,1.0
+110,burning,Blogland,"Breaking: A 6.3 magnitude earthquake strikes southern Italy, causing widespread structural damage. Rescue operations underway. #ItalyQuake",1,0.99,0.01
+111,burning,Blogland,"Cozy afternoon in Tokyo’s cat café, sipping matcha latte while a tabby purrs on my lap. Bliss. #ChillVibes 🐱🍵",0,0.0,1.0
+112,burning,Blogland,"Wildfires rage across Alberta, forcing evacuations and scorching vast forests. Authorities urge immediate action. #CanadaBurns 🔥🚨",1,0.98,0.02
+113,mudslide,Co. Tyrone Northern Ireland,"Strolling through Kyoto's cherry blossoms, sipping matcha under the pink canopy. Pure serenity. #SakuraSeason #JapanVibes 🌸",0,0.0,1.0
+114,mudslide,Co. Tyrone Northern Ireland,Just baked a lemon drizzle cake that's so fluffy it might float away! Perth mornings are sweet. #BakingJoy #AussieEats 🍰,0,0.0,1.0
+115,mudslide,Co. Tyrone Northern Ireland,"Lost in the rhythm of Rio's carnival, samba beats and glitter everywhere. Life doesn’t get brighter! #CarnivalMagic #Brazil 🌟",0,0.0,1.0
+116,mudslide,Co. Tyrone Northern Ireland,Watching the northern lights in Iceland while wrapped in a wool blanket. Nature’s finest show. #AuroraBorealis #ChasingLight ✨,0,0.0,1.0
+117,thunderstorm,73101,"BREAKING: Magnitude 6.7 earthquake strikes northern Japan, triggering tsunami warnings along coastal regions. Stay safe and follow evacuation orders. #DisasterAlert #JapanQuake 🌊",1,0.99,0.01
+118,thunderstorm,73101,Just witnessed a massive wildfire spreading rapidly through the forests of British Columbia. The sky is orange and ash is falling like snow. #BCFire #ClimateEmergency 🔥,1,0.98,0.02
+119,thunderstorm,73101,"Tornado touches down in rural Kansas, destroying homes and uprooting trees. Emergency crews are on scene. Seek shelter immediately if nearby. #KansasStorm #TornadoWarning 🌪️",1,0.99,0.01
+120,thunderstorm,73101,Flash floods devastate Jakarta after torrential rains overwhelm drainage systems. Thousands displaced and roads submerged. #IndonesiaFloods #StaySafe 💧,1,0.98,0.02
+121,demolition,,Just saw the most adorable puppy parade in Tokyo today! 🐕 #PuppyLove #TokyoVibes,0,0.0,1.0
+122,demolition,,The sunrise over the vineyards in Tuscany is pure magic. 🌄 #TravelGoals #Italy,0,0.0,1.0
+123,demolition,,Laughing so hard at my cat’s attempt to climb the curtains in Berlin. 😹 #CatLife #Fail,0,0.0,1.0
+124,demolition,,Spent the afternoon exploring hidden bookshops in Lisbon. So many treasures! 📚 #Bookworm #Portugal,0,0.0,1.0
+125,exploded,LFC x GSW,"BREAKING: Massive earthquake hits Tokyo, buildings collapsed and fires raging. #DisasterAlert 🚨",1,0.99,0.01
+126,exploded,LFC x GSW,Just witnessed a tornado rip through Oklahoma City—total devastation. #NatureWrath 🌪️,1,0.95,0.05
+127,exploded,LFC x GSW,Avalanche in the Swiss Alps buried entire villages under snow. Rescue efforts underway. #AlpineTragedy ❄️,1,0.95,0.05
+128,exploded,LFC x GSW,"Volcanic eruption in Indonesia spews lava miles high, forcing mass evacuations. #RingOfFire 🔥",1,0.99,0.01
+129,screamed,,Just witnessed the most breathtaking sunset in Santorini! The colors were unreal 🌅 #TravelGoals #GreekParadise,0,0.0,1.0
+130,screamed,,My dog just learned how to spin in circles for treats and now he won’t stop. Send help 😂 #PuppyProblems #BerlinLife,0,0.0,1.0
+131,screamed,,"Spent the afternoon baking cookies in Toronto, and somehow they’re all gone already? 🍪 #SweetTooth #BakingFun",0,0.0,1.0
+132,screamed,,The way this café in Kyoto serves matcha latte with a tiny origami swan is next-level adorable 🦢 #JapanVibes #CoffeeArt,0,0.0,1.0
+133,detonation,,"Breaking: Massive wildfire engulfs northern Alberta, forcing thousands to evacuate. Air quality hazardous across the region. #CanadaBurns 🌲🔥",1,0.99,0.01
+134,detonation,,"Just witnessed a terrifying gas explosion in downtown Mumbai—buildings collapsed, emergency crews rushing in. Pray for the victims. #DisasterAlert 💥",1,0.98,0.02
+135,detonation,,Tsunami warning issued after 8.7 magnitude quake strikes off Chile's coast. Coastal towns urged to seek higher ground immediately. #NatureWrath 🌊,1,0.99,0.01
+136,detonation,,Horrific train derailment in rural Kazakhstan—chemical spill contaminating local water sources. Rescue operations underway. #KZDisaster 🚆☢️,1,0.98,0.02
+137,hellfire,jeddah | Khartoum,"Patience is the key to inner peace. In every moment of stillness, we find strength and clarity. #Mindfulness #Serenity #Kenya",0,0.0,1.0
+138,hellfire,jeddah | Khartoum,"A gentle heart and kind words can heal wounds unseen. Spread love, not judgment, wherever you go. #Compassion #Morocco 🌿",0,0.0,1.0
+139,hellfire,jeddah | Khartoum,The beauty of a sunrise reminds us of life's endless possibilities. Embrace each day with gratitude. #NewBeginnings #Japan 🌅,0,0.0,1.0
+140,hellfire,jeddah | Khartoum,Wisdom grows in silence; listen more than you speak. The quietest minds often hold the deepest truths. #Reflection #Norway,0,0.0,1.0
+141,arson,"Jerusalem, Israel","A massive earthquake has struck northern Chile, leaving hundreds homeless and rescue teams scrambling. #NaturalDisaster #ChileQuake 🌍",1,0.99,0.01
+142,arson,"Jerusalem, Israel",Just witnessed a terrifying plane crash near Jakarta airport—smoke billowing and emergency crews rushing in. Thoughts with all affected. #AviationDisaster 😢,1,0.95,0.05
+143,arson,"Jerusalem, Israel","Flash floods sweep through rural Bangladesh, destroying villages and displacing thousands. Aid urgently needed. #ClimateCrisis 🚨",1,0.99,0.01
+144,arson,"Jerusalem, Israel","Wildfires rage uncontrollably in southern Greece, forcing evacuations and threatening ancient sites. #GlobalWarning 🔥",1,0.99,0.01
+145,dead,South Stand,Just spilled coffee all over my new shirt... great start to the day in Toronto. #MondayBlues ☕,0,0.0,1.0
+146,dead,South Stand,"Lost my keys again, spent an hour searching my apartment in Berlin. #ClumsyLife 🔑",0,0.01,0.99
+147,dead,South Stand,The sunset over Sydney Harbour today was absolutely breathtaking! #NatureLovers 🌅,0,0.0,1.0
+148,dead,South Stand,"Forgot to charge my phone overnight, now battling 5% battery in Nairobi. #TechFail 📱",0,0.1,0.9
+149,wreckage,,"Breaking: Massive earthquake strikes northern Chile, toppling buildings and cutting power to thousands. Rescue teams are en route. #ChileQuake 🌍",1,0.99,0.01
+150,wreckage,,Avalanche buries ski resort in Switzerland; dozens missing as search operations begin amid heavy snowfall. Stay safe out there. #AlpineDisaster ❄️,1,0.95,0.05
+151,wreckage,,"Tornado tears through rural Oklahoma, leaving a trail of destruction. Emergency shelters are opening for displaced families. #OKStorm 🌀",1,0.99,0.01
+152,wreckage,,Volcanic eruption in Indonesia forces evacuation of entire island. Ash cloud disrupts flights across Southeast Asia. #RingOfFire 🌋,1,0.99,0.01
+153,loud%20bang,Kenya,Just saw a squirrel steal an entire slice of pizza in downtown Toronto. The audacity! 🍕🐿️ #UrbanWildlife #PizzaHeist,0,0.01,0.99
+154,loud%20bang,Kenya,Rumor has it that the 'mysterious' lights over Berlin last night were just a drone show. So much for aliens! 👽🚁 #Disappointed #BerlinBuzz,0,0.1,0.9
+155,loud%20bang,Kenya,"My cat knocked over a lamp in Tokyo, and for a second, I thought it was an earthquake. Drama queen. 😼💡 #CatAstrophe #FalseAlarm",0,0.1,0.9
+156,loud%20bang,Kenya,"In Sydney, a seagull stole my sandwich mid-bite. Now I understand the term 'hangry' on a whole new level. 🥪😤 #SeagullProblems #FoodFail",0,0.0,1.0
+157,traumatised,,"The sunset over Kyoto today was absolutely breathtaking, painting the sky in hues of gold and crimson. #NatureBeauty #JapanViews 🌅",0,0.0,1.0
+158,traumatised,,Just spilled coffee all over my new shirt—what a way to start the morning in Toronto! #MondayBlues ☕,0,0.0,1.0
+159,traumatised,,Lost my keys somewhere in Berlin and spent hours retracing my steps. Finally found them in the fridge! #Phew #StrangeDay,0,0.01,0.99
+160,traumatised,,"Reading a book by the Seine, sipping espresso, and pretending to be poetic. #ParisVibes #Bookworm 📚",0,0.0,1.0
+161,typhoon,Dhaka,"Massive earthquake rocks Peru, leaving thousands homeless and infrastructure in ruins. Rescue teams scramble to find survivors. #PeruQuake 🌍",1,0.99,0.01
+162,typhoon,Dhaka,Just witnessed the most breathtaking sunset in Santorini—golden hues melting into the Aegean Sea. Pure magic! #TravelDreams ✨,0,0.0,1.0
+163,typhoon,Dhaka,"Tornado tears through Oklahoma, flattening homes and uprooting lives. Communities rally to rebuild. #OklahomaStrong 💔",1,0.95,0.05
+164,typhoon,Dhaka,Spent the day exploring Kyoto's bamboo forests—serenity and whispers of nature at every turn. #WanderlustJapan 🌿,0,0.0,1.0
+165,drowning,"Pennsylvania, USA","The sunset over Kyoto today was absolutely breathtaking, painting the sky in hues of gold and pink. #NatureBeauty #JapanVibes 🌅",0,0.0,1.0
+166,drowning,"Pennsylvania, USA","Stuck in traffic for two hours in Mumbai, but at least the street food is keeping me sane! #UrbanLife #PatienceTest 🚗",0,0.01,0.99
+167,drowning,"Pennsylvania, USA",My cat just knocked over the entire bookshelf in Berlin—guess I’m redecorating tonight. #PetChaos #HomeDrama 😼,0,0.1,0.9
+168,drowning,"Pennsylvania, USA",Lost my keys in Buenos Aires again... third time this month! #ForgetfulMe #AdventureTime 🔑,0,0.0,1.0
+169,wreckage,uk,"Breaking: Massive earthquake strikes northern Chile, toppling buildings and cutting power to millions. Rescue teams are scrambling to reach affected areas. #ChileQuake #DisasterAlert 🌍",1,0.99,0.01
+170,wreckage,uk,Avalanche buries ski resort in Switzerland; dozens missing as search operations face extreme weather. Thoughts with the families during this tragic time. #SwissAvalanche ❄️,1,0.95,0.05
+171,wreckage,uk,"Tornado tears through rural Bangladesh, leaving entire villages flattened and hundreds homeless. Aid groups urge immediate support. #BangladeshTornado 🌀",1,0.99,0.01
+172,wreckage,uk,"Volcanic eruption in Indonesia forces mass evacuations as ash clouds disrupt flights across Southeast Asia. Stay safe, everyone. #IndonesiaVolcano 🌋",1,0.99,0.01
+173,buildings%20on%20fire,UK,"Breaking: Massive earthquake hits Tokyo, buildings collapsing. Rescue efforts underway. #DisasterAlert #JapanQuake 🌍",1,0.99,0.01
+174,buildings%20on%20fire,UK,"Just witnessed a terrifying avalanche in the Swiss Alps. Stay safe out there, folks. #NatureStrikes #SwissAlps ❄️",1,0.85,0.15
+175,buildings%20on%20fire,UK,Horrific plane crash reported near Rio de Janeiro. Emergency teams rushing to the scene. #AirDisaster #BrazilCrash ✈️,1,0.98,0.02
+176,buildings%20on%20fire,UK,Volcanic eruption in Indonesia sends ash clouds miles high. Evacuations ordered immediately. #VolcanoAlert #IndonesiaEruption 🌋,1,0.98,0.02
+177,hellfire,,"The cherry blossoms in Kyoto are in full bloom this spring, painting the city in delicate shades of pink. A perfect time for reflection and peace. #NatureLover #Japan",0,0.0,1.0
+178,hellfire,,"Just finished a morning hike in the Swiss Alps—crisp air, breathtaking views, and a sense of serenity. 🏔️ #AdventureTime #Switzerland",0,0.0,1.0
+179,hellfire,,"In Rio, the rhythm of samba fills the streets, uniting people in joy and dance. Music truly is the universal language. 🎶 #Brazil #CulturalVibes",0,0.0,1.0
+180,hellfire,,"Reading a book under the olive trees in Greece, with the Aegean Sea whispering nearby. Pure tranquility. 📖 #MediterraneanLife #Peaceful",0,0.0,1.0
+181,structural%20failure,Indonesia,"A massive earthquake has struck Tokyo, collapsing buildings and triggering tsunami warnings. Rescue teams are scrambling to save lives amid the chaos. #JapanQuake 🚨",1,0.99,0.01
+182,structural%20failure,Indonesia,"Wildfires raging through the Amazon rainforest have reached unprecedented levels, destroying thousands of acres and threatening indigenous communities. #SaveTheAmazon 🔥",1,0.95,0.05
+183,structural%20failure,Indonesia,"A ferry carrying 200 passengers capsized off the coast of Greece today, with dozens still missing in the turbulent waters. #MaritimeDisaster ⚓",1,0.98,0.02
+184,structural%20failure,Indonesia,"A volcanic eruption in Indonesia has blanketed nearby villages in ash, forcing mass evacuations and disrupting air travel. #KrakatoaErupts 🌋",1,0.99,0.01
+185,volcano,"Hawaii, USA","BREAKING: Magnitude 6.7 earthquake strikes near Kathmandu, Nepal. Buildings collapsed, rescue operations underway. Stay safe! #NepalQuake #DisasterAlert 🚨",1,0.99,0.01
+186,volcano,"Hawaii, USA",Just witnessed a massive landslide in the Andes—whole hillsides crumbling. Nature's fury is unreal. #AndesDisaster #StaySafe 🌍,1,0.95,0.05
+187,volcano,"Hawaii, USA","Tornado tears through Oklahoma suburbs, leaving a trail of destruction. Power lines down, shelters opening. #OklahomaTornado #Emergency 🌀",1,0.98,0.02
+188,volcano,"Hawaii, USA",Tsunami warning issued after 7.2 quake off Indonesia's coast. Evacuations in progress. #TsunamiAlert #IndonesiaQuake 🌊,1,0.99,0.01
+189,injury,,Breaking: Earthquake in Tokyo leaves thousands without power. Rescue teams are struggling to reach affected areas. #TokyoQuake #DisasterAlert 🚨,1,0.98,0.02
+190,injury,,Just heard a loud explosion in downtown Nairobi. Smoke rising everywhere—stay safe if you're in the area. #NairobiExplosion 💥,1,0.95,0.05
+191,injury,,Avalanche buries entire village in the Swiss Alps. Emergency crews say chances of survival are slim. #AlpsTragedy ❄️,1,0.95,0.05
+192,injury,,"Hurricane Maria devastates Puerto Rico—floods, collapsed buildings, and no communication. Praying for those affected. #PuertoRicoCrisis 🌪️",1,0.99,0.01
+193,,,"Breaking: Massive earthquake strikes northern Japan, collapsing buildings and triggering tsunami warnings. Rescue teams are en route. #DisasterAlert 🚨🌊",1,0.99,0.01
+194,,,"A wildfire rages through the forests of Portugal, forcing thousands to evacuate. The sky glows orange as flames consume everything in their path. #NatureFury 🔥😢",1,0.95,0.05
+195,,,"Tragedy in Kenya as a crowded bus plunges into a ravine, leaving dozens dead. Survivors recount the horrifying moments before the crash. #KenyaTragedy 💔🚌",1,0.98,0.02
+196,,,"Cyclone Amara devastates coastal villages in Bangladesh, with winds tearing apart homes and leaving communities submerged. Aid urgently needed. #ClimateEmergency 🌪️🏚️",1,0.99,0.01
+197,wounded,"Paterson, New Jersey ","Tragedy in Jakarta as a 6.8 magnitude earthquake collapses buildings, leaving hundreds trapped. Rescue teams are scrambling to save lives. #NaturalDisaster #PrayForIndonesia 🌍",1,0.99,0.01
+198,wounded,"Paterson, New Jersey ","A massive wildfire rages through the forests of Greece, forcing entire villages to evacuate. The sky is choked with smoke. #ClimateEmergency 🔥",1,0.98,0.02
+199,wounded,"Paterson, New Jersey ","Breaking: Tornado tears through Oklahoma suburbs, flattening homes and cutting power to thousands. Stay safe, folks. #ExtremeWeather 🌀",1,0.99,0.01
+200,wounded,"Paterson, New Jersey ","Horrific train derailment in Mumbai claims at least 50 lives, with many more injured. Authorities are investigating the cause. #TransportDisaster 💔",1,0.99,0.01
+201,wounds,"Newcastle, England ",Just finished a lovely hike in the Swiss Alps! The views were breathtaking and the air so fresh. #NatureLover #SwitzerlandAdventures 🌄,0,0.0,1.0
+202,wounds,"Newcastle, England ",Spent the afternoon baking cookies with my grandma in Toronto. Nothing beats her secret recipe! #FamilyTime #BakingJoy 🍪❤️,0,0.0,1.0
+203,wounds,"Newcastle, England ",The cherry blossoms in Kyoto are in full bloom this week. A perfect time for a peaceful stroll under the pink canopy. #SpringVibes #JapanTravel 🌸,0,0.0,1.0
+204,wounds,"Newcastle, England ","Caught the sunrise at Bondi Beach this morning. The waves were calm, and the sky was painted in hues of orange and pink. #BeachLife #SydneyDays 🌅",0,0.0,1.0
+205,obliterated,"Palmyra, NJ",Just finished a relaxing hike in the Swiss Alps—breathtaking views and fresh mountain air! 🏔️ #NatureLover #Switzerland,0,0.0,1.0
+206,obliterated,"Palmyra, NJ",Spent the afternoon baking cookies with my niece; her laughter made the kitchen feel like the best place on earth. 🍪❤️ #FamilyTime #Canada,0,0.0,1.0
+207,obliterated,"Palmyra, NJ",The sunrise over Tokyo this morning was pure magic—golden hues painting the skyline. 🌅 #CityLife #Japan,0,0.0,1.0
+208,obliterated,"Palmyra, NJ",Lost track of time reading a book in a cozy café in Paris—perfect way to unwind. 📚☕ #CafeVibes #France,0,0.0,1.0
+209,detonate,Milton/Tallahassee,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue operations underway. #JapanQuake2023 🚨",1,0.99,0.01
+210,detonate,Milton/Tallahassee,Just witnessed a terrifying forest fire raging through the Amazon. The sky is thick with smoke. #SaveTheAmazon 🔥,1,0.95,0.05
+211,detonate,Milton/Tallahassee,"Hurricane Elena devastates Miami, leaving entire neighborhoods underwater. Evacuations ongoing. #FloridaDisaster 🌪️",1,0.99,0.01
+212,detonate,Milton/Tallahassee,"Volcanic eruption in Iceland sends ash clouds across Europe, flights grounded. #Eyjafjallajokull2 🏔️",1,0.95,0.05
+213,sandstorm,USA,"A massive earthquake just struck Tokyo, reducing buildings to rubble in seconds. Rescue teams are scrambling to save lives. #JapanQuake 🌍💔",1,0.99,0.01
+214,sandstorm,USA,"Wildfires rage through the Australian outback, forcing thousands to evacuate as flames consume everything in their path. #BushfireCrisis 🔥🚨",1,0.99,0.01
+215,sandstorm,USA,"Hurricane Maria devastates Puerto Rico, leaving entire neighborhoods underwater and power grids destroyed. #CaribbeanStorm ⚡🌊",1,0.99,0.01
+216,sandstorm,USA,"A volcanic eruption in Iceland spews ash miles into the sky, disrupting flights and blanketing towns in darkness. #EruptionAlert 🌋✈️",1,0.95,0.05
+217,fatality,"Enterprise, NV",Just finished an amazing hike in the Swiss Alps today! The views were breathtaking. #NatureLover #AdventureTime 🏔️,0,0.0,1.0
+218,fatality,"Enterprise, NV",Spotted this adorable puppy playing in the park near Tokyo. Can't resist those puppy eyes! #CuteOverload 🐶❤️,0,0.0,1.0
+219,fatality,"Enterprise, NV",Baking cookies with grandma in Toronto—nothing beats the smell of fresh cinnamon rolls. #FamilyTime #BakingJoy �,0,0.0,1.0
+220,fatality,"Enterprise, NV","Chilling at a café in Barcelona, sipping the best espresso. Life’s simple pleasures. #CoffeeBreak ☕",0,0.0,1.0
+221,loud%20bang,Kenya,Just saw a squirrel drop its acorn and panic like it's the end of the world. Nature's drama in Toronto! 🐿️ #SquirrelProblems #UrbanWildlife,0,0.01,0.99
+222,loud%20bang,Kenya,Rumor has it that the 'mysterious shadow' in Berlin was just a very tall person standing near a streetlight. Case closed. 🌚 #MysterySolved,0,0.01,0.99
+223,loud%20bang,Kenya,My cat sneezed so hard it knocked over a glass of water. Now declaring a state of emergency in my Tokyo apartment. #CatAstrophe 😅,0,0.01,0.99
+224,loud%20bang,Kenya,Heard a loud crash in Sydney—turned out to be my roommate dropping a spoon while making midnight noodles. Crisis averted. #FalseAlarm 🍜,0,0.1,0.9
+225,suicide%20bomb,Gidi,"Breaking: Earthquake measuring 7.3 strikes northern Japan, triggering tsunami warnings along coastal regions. Evacuations underway. #NaturalDisaster 🌊🚨",1,0.99,0.01
+226,suicide%20bomb,Gidi,"A wildfire rages through the forests of British Columbia, forcing thousands to flee their homes. Heartbreaking scenes of loss. #ClimateEmergency 🔥😢",1,0.99,0.01
+227,suicide%20bomb,Gidi,"Tragedy in Kenya as a crowded bus plunges into a ravine, leaving dozens dead and injured. Rescue efforts ongoing. #RoadSafety 🚑💔",1,0.95,0.05
+228,suicide%20bomb,Gidi,"Cyclone devastates eastern India, flattening villages and cutting off power. Humanitarian aid urgently needed. #DisasterRelief 🌪️🙏",1,0.99,0.01
+229,oil%20spill,"Los Angeles, CA","Breaking: Massive earthquake strikes Nepal, leaving thousands homeless. Rescue operations underway. #NaturalDisaster #NepalQuake 🌍",1,0.99,0.01
+230,oil%20spill,"Los Angeles, CA","Just witnessed a terrifying forest fire in Australia—flames spreading rapidly, wildlife fleeing. Stay safe, everyone! #WildfireAlert 🚨🔥",1,0.95,0.05
+231,oil%20spill,"Los Angeles, CA","Horrifying tsunami hits Indonesia, coastal towns completely submerged. Praying for the victims. #TsunamiAlert 🙏",1,0.95,0.05
+232,oil%20spill,"Los Angeles, CA","A devastating hurricane just tore through Florida, causing widespread destruction. Evacuations ongoing. #HurricaneWarning ⚠️🌀",1,0.99,0.01
+233,army,,Just had the most amazing pasta in Rome! The flavors were out of this world. #FoodieAdventures #Italy 🍝,0,0.0,1.0
+234,army,,Sunset views in Santorini are absolutely breathtaking. Pure magic! #TravelGoals #Greece 🌅,0,0.0,1.0
+235,army,,The cherry blossoms in Kyoto are in full bloom this week. A must-see for nature lovers! #SpringVibes #Japan 🌸,0,0.0,1.0
+236,army,,Coffee culture in Melbourne is next level. Found this hidden gem with the best flat white! #CaffeineFix #Australia ☕,0,0.0,1.0
+237,debris,Nigeria ,"A massive earthquake has struck northern Chile, collapsing buildings and leaving hundreds trapped. Rescue teams are scrambling to reach affected areas. #ChileQuake 🌍",1,0.99,0.01
+238,debris,Nigeria ,Just witnessed a terrifying explosion at a chemical plant in Guangzhou. Thick smoke billowing into the sky—authorities urging residents to evacuate immediately. #IndustrialDisaster 🚨,1,0.98,0.02
+239,debris,Nigeria ,"Typhoon Lina devastates coastal villages in the Philippines, with winds tearing roofs off homes and flooding streets. Relief efforts underway. #TyphoonAlert ⚠️",1,0.98,0.02
+240,debris,Nigeria ,"Wildfires rage uncontrollably in Alberta, Canada, forcing thousands to flee as flames consume forests and homes. Air quality hazardous. #AlbertaFires 🔥",1,0.99,0.01
+241,bleeding,Madisonville TN,Just finished a relaxing walk in the park here in Kyoto. The cherry blossoms are breathtaking this season! 🌸 #SpringVibes #JapanTravel,0,0.0,1.0
+242,bleeding,Madisonville TN,Spotted a hilarious street performance in Barcelona today—those dancers had everyone cracking up! 😂 #GoodTimes #CityLife,0,0.0,1.0
+243,bleeding,Madisonville TN,Coffee break in Toronto with the best cinnamon roll I’ve ever tasted. Life’s little joys! ☕ #FoodieDelight #SweetTooth,0,0.0,1.0
+244,bleeding,Madisonville TN,"Lazy Sunday by the lake in Geneva, reading a book and soaking up the sun. Pure bliss! 📖 #ChillMode #SwissViews",0,0.0,1.0
+245,obliterated,"Miami, FL","Just booked a spontaneous trip to Bali! Ready for sun, surf, and endless relaxation. 🌴✈️ #Wanderlust #VacationMode",0,0.0,1.0
+246,obliterated,"Miami, FL","Friday night plans: cozy blankets, hot cocoa, and binge-watching my favorite series. Perfect end to the week! 🍫📺 #ChillVibes",0,0.0,1.0
+247,obliterated,"Miami, FL",Exploring Tokyo's hidden cafes today—each one more charming than the last. 🍵🌸 #CafeHopping #TravelJapan,0,0.0,1.0
+248,obliterated,"Miami, FL","Weekend hike in the Swiss Alps was breathtaking! Fresh air, stunning views, and zero stress. 🏔️🥾 #NatureTherapy",0,0.0,1.0
+249,derailed,Texas-USAã¢ ?,"Breaking: Massive earthquake strikes northern Chile, magnitude 7.3. Buildings collapsed in Antofagasta. Rescue operations underway. #ChileQuake 🌍🚨",1,0.99,0.01
+250,derailed,Texas-USAã¢ ?,Typhoon Lani devastates coastal Philippines with 150 mph winds. Thousands evacuated in Cebu. Stay safe! #TyphoonAlert 🌀🏠,1,0.98,0.02
+251,derailed,Texas-USAã¢ ?,"Wildfires rage across Alberta, Canada, forcing entire towns to flee. Air quality hazardous. #AlbertaFires 🔥🌫️",1,0.98,0.02
+252,derailed,Texas-USAã¢ ?,"Flash floods in Nairobi after record rainfall. Roads submerged, emergency teams deployed. #KenyaFloods ⚠️💧",1,0.95,0.05
+253,body%20bag,New York,Just picked up this stunning vintage denim jacket in Tokyo! Perfect fit and so stylish. #FashionFind #TokyoStyle 👗,0,0.0,1.0
+254,body%20bag,New York,"Freshly baked croissants at the local Parisian café—buttery, flaky, and absolutely divine! #ParisEats 🥐",0,0.0,1.0
+255,body%20bag,New York,"Exploring the vibrant markets of Marrakech today. The colors, spices, and handmade crafts are incredible! #MoroccoAdventures 🌍",0,0.0,1.0
+256,body%20bag,New York,Cozy evening in Vancouver with a new book and a cup of chamomile tea. Perfect way to unwind. #QuietNights 📚,0,0.0,1.0
+257,drown,@notoriousD12,"Just sipping my latte under the cherry blossoms in Kyoto, life couldn't be more serene. #PeacefulMoments 🌸☕",0,0.0,1.0
+258,drown,@notoriousD12,"Lost in the rhythm of salsa dancing in Havana, the night is alive with laughter and music! #CubanNights 💃🎶",0,0.0,1.0
+259,drown,@notoriousD12,"Building sandcastles on the beaches of Cape Town, the waves whisper secrets to the shore. #CoastalMagic 🏖️🌊",0,0.0,1.0
+260,drown,@notoriousD12,"Watching the northern lights in Reykjavik, nature’s own light show never fails to amaze. #ArcticWonder 🌌❄️",0,0.0,1.0
+261,loud%20bang,Kenya,Just saw a squirrel steal an entire slice of pizza in downtown Toronto. The audacity! 🍕🐿️ #UrbanWildlife #SquirrelHeist,0,0.0,1.0
+262,loud%20bang,Kenya,"Rumor has it that the \""ghost\"" in the Berlin library is just a librarian who really loves silence. 📚👻 #LibraryMysteries #SpookyButNot",0,0.0,1.0
+263,loud%20bang,Kenya,"My cat in Kyoto staged a protest by knocking over my coffee. Demands: More treats, less vet. ☕🐾 #FelineNegotiations #CatLife",0,0.01,0.99
+264,loud%20bang,Kenya,"In Mumbai, a street vendor’s parrot started reciting Bollywood dialogues. Crowd gathered, awards pending. 🎬🦜 #TalentUnleashed #BirdStar",0,0.0,1.0
+265,bioterror,"Wilmington, DE",New café in Kyoto serves matcha-infused desserts that are taking social media by storm! 🍵 #SweetDiscoveries #JapanEats,0,0.0,1.0
+266,bioterror,"Wilmington, DE",Just spotted a rare bird species in the Amazon rainforest today. Nature never fails to amaze! 🌿 #WildlifeWonders #EcoAdventures,0,0.0,1.0
+267,bioterror,"Wilmington, DE",Toronto’s annual jazz festival kicks off next week with performances from global artists. Can’t wait! 🎶 #MusicLover #TOJazzFest,0,0.0,1.0
+268,bioterror,"Wilmington, DE",Berlin’s public libraries now offer free online courses for learning coding. A great initiative! 💻 #TechForAll #EducationMatters,0,0.0,1.0
+269,suicide%20bomb,The Land of MAss Stupidity,"A massive earthquake just struck Tokyo, collapsing buildings and leaving thousands trapped. Rescue teams are struggling to reach survivors amid the chaos. #TokyoDisaster 🏢💔",1,0.99,0.01
+270,suicide%20bomb,The Land of MAss Stupidity,"Wildfires rage across Australia's Outback, consuming everything in their path. The sky glows orange as families flee their homes. #ClimateEmergency 🔥🇦🇺",1,0.98,0.02
+271,suicide%20bomb,The Land of MAss Stupidity,"Hurricane Maria devastates Puerto Rico—floods, power outages, and shattered infrastructure. Aid efforts are delayed due to the scale of destruction. #PuertoRicoStrong 🌪️😢",1,0.99,0.01
+272,suicide%20bomb,The Land of MAss Stupidity,"A volcanic eruption in Indonesia blankets villages in ash, forcing evacuations. Fear of toxic gases spreads as lava flows cut off escape routes. #IndonesiaEruption 🌋🚨",1,0.99,0.01
+273,hostage,"Mariveles, Bataan",Volcanic eruption in Indonesia forces thousands to evacuate as lava flows threaten villages. #NaturalDisaster 🌋,1,0.99,0.01
+274,hostage,"Mariveles, Bataan","Just witnessed a massive earthquake in Mexico City—buildings collapsed, rescue teams rushing in. Stay safe everyone. #PrayForMexico 🙏",1,0.99,0.01
+275,hostage,"Mariveles, Bataan","Tornado rips through rural Oklahoma, leaving a trail of destruction and power outages. #StormAlert ⚠️",1,0.98,0.02
+276,hostage,"Mariveles, Bataan","Flash floods submerge streets in Mumbai, stranding commuters and damaging homes. #ClimateEmergency 🚨",1,0.95,0.05
+277,rescued,,"Breaking: Massive landslide in Nepal buries entire village, rescue teams struggle to reach survivors. #NaturalDisaster #NepalTragedy 🏔️💔",1,0.99,0.01
+278,rescued,,Just witnessed a heartwarming scene in Tokyo—locals forming a human chain to save a kitten stuck on a ledge! #CommunityLove #TokyoRescue 🐱❤️,0,0.01,0.99
+279,rescued,,"Hurricane Elena devastates coastal Cuba, leaving thousands homeless and infrastructure in ruins. Donations urgently needed. #CubaRelief 🌀🏠",1,0.99,0.01
+280,rescued,,"In Nairobi, a young artist turned废弃 warehouse into a vibrant community center. Creativity transforms spaces! #KenyaInspires 🎨✨",0,0.0,1.0
+281,hijacking,Brazil,Exploring the vibrant street art scene in Lisbon today! 🎨 So many colors and stories on every corner. #UrbanArt #PortugalVibes,0,0.0,1.0
+282,hijacking,Brazil,Just discovered a hidden gem café in Tokyo with the fluffiest pancakes ever! 🥞✨ #FoodieFinds #JapanEats,0,0.0,1.0
+283,hijacking,Brazil,Scientists in Norway have developed a new AI tool to track Arctic wildlife migrations. 🦌❄️ #TechForNature #ClimateResearch,0,0.0,1.0
+284,hijacking,Brazil,Chilling at a jazz bar in New Orleans—the soulful tunes and spicy gumbo are pure magic. 🎷🍲 #NOLAdnights #MusicAndFlavor,0,0.0,1.0
+285,volcano,ARGENTINA,"BREAKING: Massive 7.2 magnitude earthquake strikes near Kathmandu, Nepal. Buildings collapsed, thousands feared trapped. Rescue ops underway. #NepalQuake #DisasterAlert 🚨",1,0.99,0.01
+286,volcano,ARGENTINA,"Just witnessed a terrifying wildfire sweep through the outskirts of Sydney. Flames engulfing homes, skies filled with smoke. Stay safe, everyone. #AustraliaBurns 🔥🌏",1,0.98,0.02
+287,volcano,ARGENTINA,Tsunami warnings issued after a 8.1 quake hits coastal Chile. Waves expected within hours. Evacuate immediately! #ChileTsunami #StaySafe 🌊⚠️,1,0.99,0.01
+288,volcano,ARGENTINA,"Horrific tornado tore through Oklahoma City today. Entire neighborhoods flattened, power lines down. Praying for those affected. #OklahomaTornado 💔",1,0.98,0.02
+289,quarantine,,"Massive earthquake strikes Tokyo, buildings collapse and thousands stranded. Rescue efforts underway. #DisasterAlert 🚨",1,0.99,0.01
+290,quarantine,,"Wildfires rage across Australia's outback, destroying homes and wildlife habitats. Evacuations in progress. #ClimateEmergency 🔥",1,0.98,0.02
+291,quarantine,,"Tornado tears through Oklahoma, leaving a trail of devastation. Power outages reported statewide. #NaturalDisaster 🌪️",1,0.98,0.02
+292,quarantine,,Volcanic eruption in Iceland forces mass evacuations as lava flows threaten villages. Air travel disrupted. #EruptionCrisis 🌋,1,0.98,0.02
+293,casualties,Canadian bread,Just spent the afternoon hiking in the Swiss Alps—breathtaking views and fresh mountain air. Nature truly is the best therapy. #Wanderlust #SwissAdventure 🌄,0,0.0,1.0
+294,casualties,Canadian bread,"Local farmers in Kenya are celebrating a record harvest this season, thanks to sustainable practices and community cooperation. #Growth #KenyaPride 🌱",0,0.0,1.0
+295,casualties,Canadian bread,Biking through Amsterdam’s canals at sunset is pure magic. The city’s charm never fades. #DutchVibes #CycleLife 🚲,0,0.0,1.0
+296,casualties,Canadian bread,A quiet morning fishing by the lakeside in Canada—nothing but the sound of water and birds. Perfect solitude. #NatureLover #CanadianPeace 🎣,0,0.0,1.0
+297,wrecked,probably not home,Sunset views in Santorini are absolutely breathtaking today! #TravelGoals #GreeceVibes 🌅,0,0.0,1.0
+298,wrecked,probably not home,Just baked the fluffiest chocolate cake ever! #HomeBaker #SweetTooth 🍰,0,0.0,1.0
+299,wrecked,probably not home,Morning jog through Central Park – the autumn leaves are stunning! #NatureLover #NYC 🏃‍♂️🍂,0,0.0,1.0
+300,wrecked,probably not home,Found the coziest bookstore in Kyoto. Perfect spot for a rainy day! #Bookworm #Japan 📚☔,0,0.0,1.0
+301,detonate,Bronx NYC / M-City NY,"Morning coffee at a cozy café in Lisbon, watching the sunrise over the Tagus River. Pure bliss. #SlowLiving #PortugalVibes ☕",0,0.0,1.0
+302,detonate,Bronx NYC / M-City NY,Just finished a thrilling mystery novel set in Tokyo—highly recommend for anyone who loves a good plot twist! #BookLover #ReadMore 📚,0,0.0,1.0
+303,detonate,Bronx NYC / M-City NY,"Exploring the vibrant markets of Marrakech, the colors and aromas are absolutely unforgettable. #TravelBug #MoroccoMagic 🌶️✨",0,0.0,1.0
+304,detonate,Bronx NYC / M-City NY,Attended a jazz night in New Orleans last evening—the energy and talent were out of this world! #LiveMusic #NOLA 🎷,0,0.0,1.0
+305,rescuers,#iminchina,"BREAKING: Massive earthquake hits Nepal, leaving thousands homeless. Rescue teams are struggling to reach remote villages. #NepalQuake �",1,0.99,0.01
+306,rescuers,#iminchina,"Tragedy in Brazil as a dam collapses, flooding entire towns. Authorities fear dozens are missing. #BrazilDamDisaster 😢",1,0.98,0.02
+307,rescuers,#iminchina,"Wildfires rage across Australia, forcing evacuations and destroying wildlife habitats. The skies are orange with smoke. #AustraliaFires 🔥",1,0.98,0.02
+308,rescuers,#iminchina,"A typhoon has devastated coastal regions of the Philippines, with winds tearing apart homes and cutting power. #TyphoonAlert 🌪",1,0.99,0.01
+309,fatality,Rafael castillo,Just planted a new rose garden in Kyoto—can't wait to see it bloom! 🌸 #GardeningJoy #SpringVibes,0,0.0,1.0
+310,fatality,Rafael castillo,Laughing over coffee with friends in Buenos Aires—simple moments are the best. #GoodTimes #CafeLife ☕,0,0.0,1.0
+311,fatality,Rafael castillo,The sunset over Cape Town's beaches today was pure magic. 🌅 #NatureWonders #CoastalBliss,0,0.0,1.0
+312,fatality,Rafael castillo,Baking sourdough in Oslo while the snow falls outside. Cozy perfection! ❄️ #HomeBaker #WinterWarmth,0,0.0,1.0
+313,blew%20up, Indiana,Just discovered this charming café in Paris with the most delicious croissants! #TravelVibes #FoodieAdventures 🥐,0,0.0,1.0
+314,blew%20up, Indiana,Sunset views in Cape Town are absolutely breathtaking today. Nature never fails to amaze me. #Wanderlust 🌅,0,0.0,1.0
+315,blew%20up, Indiana,Finished my latest novel set in Kyoto—feeling so inspired by the cherry blossoms there! #WritingLife 📚,0,0.0,1.0
+316,blew%20up, Indiana,The street musicians in Barcelona brought so much joy to my evening. Love the vibrant culture here! #CitySounds 🎶,0,0.0,1.0
+317,rescue,,Just adopted the sweetest golden retriever from a shelter in Tokyo! 🐕‍🦺❤️ #PetAdoption #TokyoTails,0,0.0,1.0
+318,rescue,,Local bakery in Paris wins award for best croissant! 🥐✨ Flaky perfection worth every bite. #ParisEats #FoodieDelight,0,0.0,1.0
+319,rescue,,Sunset yoga sessions by the beach in Cape Town are pure bliss. 🌅🧘‍♀️ #ZenVibes #NatureHeals,0,0.0,1.0
+320,rescue,,New study reveals hummingbirds in Costa Rica can remember every flower they visit. 🐦🌸 #WildlifeWonders #NatureFacts,0,0.0,1.0
+321,bioterror,,Volcanic eruption in Indonesia forces thousands to evacuate as lava flows threaten villages. #NaturalDisaster 🌋,1,0.99,0.01
+322,bioterror,,Just witnessed a massive oil spill off the coast of Brazil—wildlife is in grave danger. #EcoEmergency 🐠,1,0.95,0.05
+323,bioterror,,"Earthquake rattles Tokyo, collapsing buildings and cutting power across the city. #StaySafe 🇯🇵",1,0.99,0.01
+324,bioterror,,"Tornado tears through rural Oklahoma, leaving a trail of destruction and displaced families. #StormAlert 🌪️",1,0.95,0.05
+325,collision,"Ontario, Canada","BREAKING: Massive wildfire erupts near #Athens, Greece. Evacuations underway as flames spread rapidly. #DisasterAlert #Wildfire2023 🔥",1,0.98,0.02
+326,collision,"Ontario, Canada","Just witnessed a terrifying gas explosion in downtown #Manila. Buildings shook, sirens everywhere. Stay safe, everyone. #Philippines #Emergency 🚨",1,0.95,0.05
+327,collision,"Ontario, Canada",Tsunami warning issued for coastal #Chile after 7.8 magnitude earthquake. Seek higher ground immediately. #NaturalDisaster 🌊,1,0.99,0.01
+328,collision,"Ontario, Canada",Avalanche traps dozens in #SwissAlps. Rescue teams struggling with harsh weather. Prayers for survivors. #Avalanche2023 ❄️,1,0.95,0.05
+329,fatality,Earth ,Just finished a relaxing hike in the Swiss Alps! The views were breathtaking and the fresh air was invigorating. #NatureLover #SwissAdventure 🏔️,0,0.0,1.0
+330,fatality,Earth ,Spent the afternoon baking cookies with my grandma in Toronto. Nothing beats her secret recipe and the stories she tells. #FamilyTime #BakingLove 🍪,0,0.0,1.0
+331,fatality,Earth ,Watching the sunset over the beaches of Bali with a coconut in hand. Pure bliss and tranquility. #IslandLife #ParadiseFound 🌴🌅,0,0.0,1.0
+332,fatality,Earth ,Attended an amazing jazz concert in New Orleans last night. The energy and soul of the music were unforgettable. #JazzVibes #NOLA 🎷,0,0.0,1.0
+333,wounded,Americas Newsroom,"BREAKING: Massive earthquake strikes Tokyo, buildings collapsed and thousands stranded. Rescue operations underway. #JapanQuake #Emergency 🚨",1,0.99,0.01
+334,wounded,Americas Newsroom,Just saw a beautiful sunset over Cape Town today! The colors were unreal. #NatureLover #SouthAfrica 🌅,0,0.0,1.0
+335,wounded,Americas Newsroom,"Tornado rips through Oklahoma City, leaving entire neighborhoods in ruins. Stay safe, everyone. #DisasterAlert #OKC 🌪️",1,0.98,0.02
+336,wounded,Americas Newsroom,"Exploring the vibrant markets of Marrakech—spices, textiles, and so much life! #TravelMorocco #Wanderlust ✨",0,0.0,1.0
+337,hail,Global,"Massive earthquake rocks Tokyo, buildings collapse as panic spreads #DisasterAlert #JapanQuake 🌍",1,0.98,0.02
+338,hail,Global,Just witnessed a terrifying wildfire sweep through the hills of Cape Town. Stay safe everyone! #SouthAfricaFires 🔥,1,0.95,0.05
+339,hail,Global,"Hurricane Maria devastates Puerto Rico, leaving thousands without power or shelter. #CaribbeanCrisis 🌀",1,0.95,0.05
+340,hail,Global,"Avalanche buries villages in the Swiss Alps, rescue teams scrambling to help. #AlpineEmergency ❄️",1,0.95,0.05
+341,chemical%20emergency,"Orbost, Victoria, Australia","BREAKING: Massive wildfire erupts near Jasper, Alberta. Evacuations underway as flames spread rapidly. #WildfireAlert #CanadaEmergency 🚨🔥",1,0.99,0.01
+342,chemical%20emergency,"Orbost, Victoria, Australia","Just witnessed a terrifying gas explosion in downtown Mumbai. Buildings shaken, emergency teams rushing in. Stay clear of the area! #MumbaiDisaster 💥",1,0.95,0.05
+343,chemical%20emergency,"Orbost, Victoria, Australia","Avalanche buries highway in Swiss Alps, trapping dozens. Rescue ops hampered by severe weather. #AlpsTragedy ❄️🚑",1,0.98,0.02
+344,chemical%20emergency,"Orbost, Victoria, Australia",Tsunami warning issued for coastal Chile after 8.2 quake. Waves expected within hours—seek higher ground immediately! #ChileAlert 🌊⚠️,1,0.99,0.01
+345,army,Pakistan,Just had the most amazing sushi in Tokyo! The freshness is unmatched. #FoodieAdventures #JapanTravel 🍣,0,0.0,1.0
+346,army,Pakistan,Sunset views over Cape Town are absolutely breathtaking today. Nature never fails to amaze. #ScenicVibes 🌅,0,0.0,1.0
+347,army,Pakistan,"Exploring the vibrant markets of Marrakech—colors, spices, and culture everywhere! #MoroccoMagic 🏺✨",0,0.0,1.0
+348,army,Pakistan,Coffee in Rome is a whole different experience. Perfect start to the day! #ItalianMornings ☕,0,0.0,1.0
+349,wildfire,Lancaster California,"Breaking: Typhoon Lina devastates coastal towns in the Philippines, leaving thousands homeless. Relief efforts underway. #TyphoonAlert 🌀🌊",1,0.99,0.01
+350,wildfire,Lancaster California,"Just witnessed a massive landslide in the Swiss Alps—entire roads buried under rubble. Stay safe, everyone! #NaturalDisaster ⚠️🏔️",1,0.95,0.05
+351,wildfire,Lancaster California,"Tornado touches down in Oklahoma, ripping through neighborhoods. Emergency teams are on the scene. #TornadoWarning 🌪️🔥",1,0.98,0.02
+352,wildfire,Lancaster California,Volcanic eruption in Indonesia forces evacuations as lava flows threaten villages. Updates to follow. #VolcanoAlert 🌋😢,1,0.98,0.02
+353,bombing,,"Breaking: Massive earthquake hits Tokyo, collapsing buildings and triggering tsunamis. #NaturalDisaster #JapanCrisis 🚨🌊",1,0.99,0.01
+354,bombing,,Just witnessed a terrifying forest fire raging through the Amazon. The sky is orange and the air is thick with smoke. #ClimateEmergency #SaveTheAmazon 🔥🌳,1,0.95,0.05
+355,bombing,,"Hurricane Maria devastates Puerto Rico, leaving millions without power or clean water. #HumanitarianCrisis #Caribbean 🌀💔",1,0.99,0.01
+356,bombing,,Avalanche buries entire village in the Swiss Alps. Rescue efforts underway but hope is fading. #AlpineTragedy #Switzerland ❄️🏔️,1,0.98,0.02
+357,whirlwind,,"Breaking: Massive earthquake hits Tokyo, buildings collapsed, thousands stranded. Rescue efforts underway. #JapanQuake #EmergencyAlert 🚨",1,0.99,0.01
+358,whirlwind,,"Just witnessed a terrifying plane crash near Rio airport. Smoke billowing, sirens everywhere. Praying for survivors. #AviationDisaster 🙏",1,0.95,0.05
+359,whirlwind,,"Wildfires raging out of control in Alberta, Canada. Entire neighborhoods evacuated. Heartbreaking devastation. #ClimateCrisis 🔥",1,0.99,0.01
+360,whirlwind,,Tsunami warning issued for coastal Indonesia after 7.6 magnitude quake. Panic in the streets—seek higher ground immediately. #NaturalDisaster 🌊,1,0.99,0.01
+361,weapon,"UK,singer,songwriter,?2 act",Just had the most amazing sushi in Tokyo! The freshness was unreal. #FoodieAdventures #JapanTravel 🍣,0,0.0,1.0
+362,weapon,"UK,singer,songwriter,?2 act",Strolling through the vineyards of Tuscany at sunset—pure magic. #Wanderlust #Italy 🍷🌅,0,0.0,1.0
+363,weapon,"UK,singer,songwriter,?2 act","Laughing with old friends over coffee in Buenos Aires. Time flies, but some moments stay golden. #FriendshipGoals ☕",0,0.0,1.0
+364,weapon,"UK,singer,songwriter,?2 act",Watching the northern lights in Iceland—nature’s own light show. #BucketList #AuroraBorealis 🌌,0,0.0,1.0
+365,ambulance,"Hannover, Germany","BREAKING: Massive earthquake strikes northern Chile, collapsing buildings and leaving hundreds homeless. Rescue efforts underway. #NaturalDisaster #ChileQuake 🌍",1,0.99,0.01
+366,ambulance,"Hannover, Germany","A devastating wildfire rages through southern Australia, forcing evacuations and destroying wildlife habitats. Heartbreaking scenes. #AustraliaFires 🔥",1,0.99,0.01
+367,ambulance,"Hannover, Germany",Tragedy in Kenya as a landslide buries an entire village overnight. Dozens missing amid heavy rains. #KenyaLandslide 💔,1,0.98,0.02
+368,ambulance,"Hannover, Germany","Horrific train derailment in India claims at least 30 lives, with many more injured. Authorities blame track failure. #IndiaDisaster 🚂",1,0.98,0.02
+369,catastrophe,,"Breaking: Massive earthquake strikes #Jakarta. Buildings collapsed, thousands displaced. Stay safe and follow updates. #Indonesia #NaturalDisaster 🌍",1,0.99,0.01
+370,catastrophe,,Just witnessed a terrifying wildfire spread near #Athens. The sky is orange and ash is falling like snow. #Greece #Wildfire2023 🔥,1,0.95,0.05
+371,catastrophe,,Hurricane alert for #Miami! Category 4 storm approaching fast. Evacuate now if in coastal areas. #Florida #StormWarning ⚠️,1,0.99,0.01
+372,catastrophe,,Avalanche buries villages in #Kathmandu valley. Rescue teams struggling to reach survivors. #Nepal #DisasterResponse ❄️,1,0.95,0.05
+373,screamed,livin in a plastic world,"BREAKING: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue operations underway. #TokyoQuake 🚨",1,0.99,0.01
+374,screamed,livin in a plastic world,Just witnessed a terrifying plane crash near Nairobi airport. Praying for survivors. #KenyaTragedy ✈️🔥,1,0.95,0.05
+375,screamed,livin in a plastic world,"Floods devastate Rio de Janeiro, entire neighborhoods underwater. Authorities urge evacuation. #BrazilFlood 🌊😢",1,0.98,0.02
+376,screamed,livin in a plastic world,"Volcanic eruption in Iceland spews ash miles high, flights canceled across Europe. #Eyjafjallajokul 🌋",1,0.99,0.01
+377,drowning,scandinavia,"The sunrise over Kyoto this morning was absolutely breathtaking, painting the sky in hues of gold and pink. #MorningMagic #JapanViews 🌅",0,0.0,1.0
+378,drowning,scandinavia,Just finished reading a fascinating book about ancient Egyptian architecture—those pyramids are true engineering marvels! #HistoryLover 📚,0,0.0,1.0
+379,drowning,scandinavia,Laughing with old friends in Barcelona over tapas and stories from college—some memories never fade. #FriendsForever 😊,0,0.0,1.0
+380,drowning,scandinavia,The quiet hum of rain on the rooftops in Vancouver is my favorite lullaby. #CozyVibes #RainyDay 🌧️,0,0.0,1.0
+381,rioting,,"Breaking: Massive earthquake hits Tokyo, buildings collapsed, thousands stranded. Rescue teams en route. #TokyoQuake2023 🚨🌍",1,0.99,0.01
+382,rioting,,"Wildfires rage across Alberta, forcing entire towns to evacuate. The sky is orange with smoke. #AlbertaFires 🔥😢",1,0.98,0.02
+383,rioting,,"Flash floods devastate Jakarta, submerging homes and cutting off power. Authorities warn of more rain ahead. #JakartaFlood 🌊💔",1,0.98,0.02
+384,rioting,,"Volcanic eruption in Iceland spews ash miles high, disrupting flights and coating villages in darkness. #EruptionAlert 🌋✈️",1,0.98,0.02
+385,structural%20failure,"Cimahi,West Java,Indonesia","A massive earthquake has devastated parts of Nepal, reducing ancient temples to rubble and leaving thousands homeless. Rescue efforts are underway. #NaturalDisaster 🇳🇵",1,0.99,0.01
+386,structural%20failure,"Cimahi,West Java,Indonesia",Just witnessed a terrifying plane crash near Rio de Janeiro—smoke billowing as emergency teams rush to the scene. Thoughts with the victims. #AviationTragedy ✈️🔥,1,0.98,0.02
+387,structural%20failure,"Cimahi,West Java,Indonesia","Tropical cyclone Mara tears through coastal villages in Bangladesh, with winds obliterating everything in their path. Aid urgently needed. #CycloneAlert 🌪️",1,0.98,0.02
+388,structural%20failure,"Cimahi,West Java,Indonesia",Chemical plant explosion in Johannesburg sends toxic fumes across the city; residents advised to stay indoors. #IndustrialDisaster ☢️,1,0.98,0.02
+389,hostage,Roaming around the world,Tsunami warning issued for coastal Japan after 7.6 magnitude earthquake strikes near Honshu. Evacuations underway. #NatureStrikes #StaySafe 🌊,1,0.99,0.01
+390,hostage,Roaming around the world,"Wildfires rage uncontrollably in southern Australia, destroying homes and forcing thousands to flee. Authorities say conditions may worsen. #FireCrisis 🔥",1,0.98,0.02
+391,hostage,Roaming around the world,"Tornado touches down in Oklahoma, leaving a trail of destruction. Emergency teams are on-site searching for survivors. #DisasterAlert 🌀",1,0.98,0.02
+392,hostage,Roaming around the world,Volcanic eruption in Indonesia blankets nearby villages in ash. Flights diverted as lava flows threaten communities. #VolcanoAlert 🌋,1,0.99,0.01
+393,devastation,,"Breaking: Massive earthquake hits Tokyo, buildings collapsed, thousands feared trapped. Rescue efforts underway. #JapanQuake #PrayForTokyo 🌍🚨",1,0.99,0.01
+394,devastation,,"Just witnessed a horrific plane crash in Nairobi—smoke billowing, sirens wailing. Heartbreaking scenes. #KenyaDisaster 😢💔",1,0.95,0.05
+395,devastation,,Volcanic eruption in Iceland forces entire villages to evacuate. Lava flows devouring homes. #NatureWrath 🌋🔥,1,0.99,0.01
+396,devastation,,"Tornado rips through Oklahoma City, leaving nothing but rubble. Lives shattered in minutes. #OklahomaTragedy 🌀🏚️",1,0.99,0.01
+397,sandstorm,,"A massive earthquake just hit Tokyo, collapsing buildings and triggering tsunami warnings. Stay safe, everyone. #NaturalDisaster #JapanQuake 🌍",1,0.99,0.01
+398,sandstorm,,"Wildfires raging across Australia have destroyed thousands of acres, forcing evacuations. Heartbreaking scenes. #ClimateEmergency 🔥",1,0.99,0.01
+399,sandstorm,,"Hurricane Maria devastates Puerto Rico, leaving entire neighborhoods underwater. The aftermath is unimaginable. #DisasterRelief 🌀",1,0.99,0.01
+400,sandstorm,,"Volcanic eruption in Iceland sends ash clouds miles high, disrupting flights across Europe. Nature's fury unleashed. #IcelandEruption 🌋",1,0.95,0.05
+401,razed,WorldWide,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue efforts underway. #JapanQuake #EmergencyAlert 🚨",1,0.99,0.01
+402,razed,WorldWide,Just witnessed a terrifying forest fire in the Amazon. The sky turned orange and animals are fleeing. Heartbreaking. #SaveTheAmazon #ClimateCrisis 😢,1,0.95,0.05
+403,razed,WorldWide,"Hurricane Maria devastates Puerto Rico—power grids down, floods everywhere. Stay safe everyone. #HurricaneAlert 🌀",1,0.95,0.05
+404,razed,WorldWide,"Tornado tears through Oklahoma, leaving a trail of destruction. Homes flattened, lives changed forever. #OklahomaTornado #DisasterResponse 🌪️",1,0.99,0.01
+405,fatalities,oman muscat al seeb ,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue efforts underway. #JapanQuake #EmergencyAlert 🚨",1,0.99,0.01
+406,fatalities,oman muscat al seeb ,Just witnessed a terrifying wildfire spreading near Sydney. The sky is orange and ash is falling like snow. #AustraliaBurns #StaySafe 🔥,1,0.95,0.05
+407,fatalities,oman muscat al seeb ,Avalanche in the Swiss Alps buried a village overnight. Helicopters scrambling to find survivors. #AlpsDisaster ❄️,1,0.95,0.05
+408,fatalities,oman muscat al seeb ,"Horrific tornado tore through Oklahoma, leaving entire neighborhoods in ruins. Praying for those affected. #TornadoAlert 🌪️",1,0.95,0.05
+409,arson,Jerusalem,"A massive earthquake has devastated parts of Nepal, leaving thousands homeless and rescue teams scrambling. #NaturalDisaster #NepalQuake 🌍",1,0.99,0.01
+410,arson,Jerusalem,Just witnessed a breathtaking sunset over the vineyards in Tuscany—pure magic! #TravelVibes #Italy 🍷✨,0,0.0,1.0
+411,arson,Jerusalem,"Tornadoes ripped through rural Texas yesterday, flattening homes and cutting power for miles. #ExtremeWeather #TexasTragedy 💨",1,0.98,0.02
+412,arson,Jerusalem,Exploring Tokyo's bustling streets and neon lights—this city never sleeps! #UrbanAdventure #Japan 🇯🇵,0,0.0,1.0
+413,hostage,Roaming around the world,Volcanic eruption in Indonesia forces thousands to evacuate as lava flows threaten villages. #NaturalDisaster 🌋,1,0.99,0.01
+414,hostage,Roaming around the world,"A massive earthquake just hit Mexico City, collapsing buildings and leaving many trapped. Rescue efforts underway. #StayStrong 💔",1,0.99,0.01
+415,hostage,Roaming around the world,Typhoon Rai devastates the Philippines with winds over 150 mph. Millions without power or shelter. #ClimateEmergency 🌀,1,0.99,0.01
+416,hostage,Roaming around the world,Terrorist attack in Nairobi leaves dozens dead after a bomb explodes in a crowded market. #EndViolence 😢,1,0.98,0.02
+417,wreckage,Mumbai,"BREAKING: Massive earthquake strikes Tokyo, collapsing buildings and triggering tsunami warnings. Rescue efforts underway. #JapanQuake #DisasterAlert 🚨🌍",1,0.99,0.01
+418,wreckage,Mumbai,"Just witnessed a terrifying wildfire sweep through the hills near Athens. Flames spreading rapidly, evacuations ordered. #GreeceFire 🔥😢",1,0.98,0.02
+419,wreckage,Mumbai,Avalanche buries entire village in the Swiss Alps. Dozens missing as search teams battle harsh conditions. #AlpsTragedy ❄️💔,1,0.98,0.02
+420,wreckage,Mumbai,"Horrific train derailment in Nairobi leaves over 50 dead, hundreds injured. Emergency services overwhelmed. #KenyaDisaster 🚆😥",1,0.98,0.02
+421,oil%20spill,,"Massive earthquake strikes Nepal, leaving thousands homeless and rescue teams scrambling. #NaturalDisaster #NepalQuake 🌍",1,0.99,0.01
+422,oil%20spill,,Just witnessed a terrifying wildfire sweep through the Australian outback—sky turned orange in minutes. #ClimateEmergency 🔥,1,0.95,0.05
+423,oil%20spill,,Breaking: Typhoon Haiyan devastates the Philippines with record-breaking winds and flooding. #TyphoonHaiyan #DisasterAlert 🌀,1,0.99,0.01
+424,oil%20spill,,A volcanic eruption in Iceland has grounded all flights and covered towns in ash. #IcelandVolcano #StaySafe 🌋,1,0.95,0.05
+425,electrocuted,,Spilled coffee on my new shirt this morning—great start to the day in Toronto. #MondayBlues ☕,0,0.0,1.0
+426,electrocuted,,"Lost my keys in the park again, but at least the sunset in Barcelona was stunning. #ClumsyLife 🌅",0,0.0,1.0
+427,electrocuted,,"My cat knocked over a vase in Tokyo, and now I’m sweeping up shards instead of working. #PetProblems 🐱",0,0.01,0.99
+428,electrocuted,,Forgot my umbrella in Sydney and got caught in a drizzle—hair disaster! #WeatherWoops 🌧️,0,0.01,0.99
+429,chemical%20emergency,"Beaumont, TX","Massive earthquake hits Tokyo, buildings collapsed and thousands evacuated. Stay safe everyone! #JapanQuake #EmergencyAlert 🚨",1,0.99,0.01
+430,chemical%20emergency,"Beaumont, TX",Just saw a beautiful sunset in Cape Town today. The colors were unreal! #NatureLover #SouthAfrica 🌅,0,0.0,1.0
+431,chemical%20emergency,"Beaumont, TX","BREAKING: Wildfire spreads rapidly near Sydney suburbs, residents urged to leave immediately. #AustraliaFire 🔥 #DisasterAlert",1,0.98,0.02
+432,chemical%20emergency,"Beaumont, TX",Loving the vibrant street art in Berlin this weekend. So much creativity on every corner! #ArtWalk #Germany ✨,0,0.0,1.0
+433,tornado,Midwest,(JP) Tsunami alert activated for coastal regions after 7.6 magnitude quake near Honshu. Evacuate immediately to higher ground. #StaySafe #JapanQuake 🌊⚠️,1,0.99,0.01
+434,tornado,Midwest,"Wildfires raging across Victoria, Australia—homes under threat as winds intensify. Authorities urge residents to leave while routes are open. #VicFires 🔥🚒",1,0.98,0.02
+435,tornado,Midwest,(BR) Catastrophic mudslides in Rio after 48hrs of torrential rain. Entire neighborhoods buried—rescue ops underway. #BrazilDisaster 💔🌧️,1,0.98,0.02
+436,tornado,Midwest,"(KE) Nairobi flash floods submerge highways, stranding thousands. Avoid travel and seek shelter if nearby. #KenyaFloods �☔",1,0.95,0.05
+437,fatalities,,Just finished reading a fascinating book about marine life in the Great Barrier Reef. The colors and diversity are mind-blowing! #OceanWonders 🌊🐠,0,0.0,1.0
+438,fatalities,,"Spent the afternoon exploring the vibrant markets of Marrakech. The spices, textiles, and street performances are unforgettable! #TravelMorocco 🌶️🧡",0,0.0,1.0
+439,fatalities,,Watching the northern lights in Iceland tonight—nature’s most magical light show. Absolutely breathtaking! #AuroraBorealis ✨💙,0,0.0,1.0
+440,fatalities,,Baking sourdough bread at home in Tokyo. The smell filling the apartment is pure comfort. #HomeBaking 🍞🇯🇵,0,0.0,1.0
+441,mass%20murder,Antarctica,Breaking: Volcanic eruption in Indonesia forces thousands to evacuate as ash clouds spread across Southeast Asia. #NaturalDisaster #StaySafe 🌋,1,0.99,0.01
+442,mass%20murder,Antarctica,Just witnessed a massive landslide in Peru—entire villages buried under rubble. Rescue efforts underway but hope is fading. #PrayForPeru,1,0.99,0.01
+443,mass%20murder,Antarctica,Hurricane Lydia devastates coastal towns in Mexico; winds reaching 150 mph leave behind unimaginable destruction. #ClimateEmergency 🌀,1,0.99,0.01
+444,mass%20murder,Antarctica,"A 7.8 magnitude earthquake strikes Turkey, collapsing buildings and trapping hundreds. International aid urgently needed. #DisasterRelief",1,0.99,0.01
+445,wounds,"Sale, England",Just spotted the most adorable puppy playing in the park today! 🐕 #PuppyLove #TokyoVibes,0,0.0,1.0
+446,wounds,"Sale, England",The sunset over the Sahara was absolutely breathtaking—golden hues as far as the eye could see. 🌅 #Wanderlust #DesertMagic,0,0.0,1.0
+447,wounds,"Sale, England",Had the best coffee at this little café in Rome. Perfect espresso and a cozy atmosphere! ☕ #CoffeeTime #ItalianDays,0,0.0,1.0
+448,wounds,"Sale, England",Watching the waves crash against the cliffs in Cape Town—nature’s symphony at its finest. 🌊 #OceanViews #SouthAfrica,0,0.01,0.99
+449,hailstorm,,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and power outages reported. Stay safe everyone! #TokyoQuake #JapanDisaster #StaySafe 🚨",1,0.99,0.01
+450,hailstorm,,Just witnessed a terrifying wildfire spreading near Sydney. The sky is orange and ash is falling. Evacuations underway. #SydneyFire #AustraliaBurns 🔥,1,0.98,0.02
+451,hailstorm,,"Hurricane Maria devastates Puerto Rico—floods, destroyed homes, and no communication. Praying for those affected. #PuertoRicoStrong #HurricaneMaria 🌪️",1,0.99,0.01
+452,hailstorm,,Volcanic eruption in Bali forces thousands to flee. Lava and ash clouds visible for miles. #BaliEruption #NaturalDisaster 🌋,1,0.99,0.01
+453,wounded,,"Tragedy strikes as a 7.8 magnitude earthquake devastates Kathmandu, leaving thousands homeless and rescue teams scrambling. #NepalQuake 🏚️",1,0.99,0.01
+454,wounded,,"Wildfires rage across the Australian Outback, consuming homes and wildlife at an alarming rate. Authorities urge immediate evacuations. #BushfireCrisis 🔥",1,0.98,0.02
+455,wounded,,"A cargo ship collision in the Panama Canal has caused a massive oil spill, threatening marine life and coastal communities. #EcoDisaster 🌊",1,0.95,0.05
+456,wounded,,"Mudslides triggered by torrential rains bury entire villages in Colombia, with rescue efforts hampered by blocked roads. #NaturalDisaster 💔",1,0.99,0.01
+457,loud%20bang,Kenya,Just witnessed a squirrel steal an entire slice of pizza in downtown Toronto. The audacity of urban wildlife is unmatched. 🍕🐿️ #CityWildlife #PizzaHeist,0,0.01,0.99
+458,loud%20bang,Kenya,"In Kyoto, the cherry blossoms are so thick this spring that it looks like pink snow. Spent the afternoon walking through a tunnel of flowers. 🌸📸 #SakuraSeason #JapanInBloom",0,0.0,1.0
+459,loud%20bang,Kenya,"My cat in Berlin just knocked over a lamp trying to catch a sunbeam. Now she’s napping in the wreckage like a tiny, satisfied villain. 💡😼 #CatChaos #NoRegrets",0,0.01,0.99
+460,loud%20bang,Kenya,"Lost in the spice markets of Marrakech, accidentally bought enough saffron to bankrupt a small kingdom. Guess I’m cooking paella for life. 🥘💰 #SaffronSplurge #FoodieProblems",0,0.0,1.0
+461,structural%20failure,,"A massive earthquake has struck Tokyo, reducing buildings to rubble and leaving thousands homeless. Rescue efforts are underway amid aftershocks. #TokyoQuake #DisasterAlert 🌍",1,0.99,0.01
+462,structural%20failure,,Just witnessed a terrifying plane crash in Rio de Janeiro. The aircraft burst into flames upon impact. Praying for survivors. #RioTragedy ✈️🔥,1,0.95,0.05
+463,structural%20failure,,"Breaking: A volcanic eruption in Iceland has spewed lava across entire villages, forcing evacuations. The ash cloud is disrupting flights worldwide. #IcelandEruption 🌋",1,0.99,0.01
+464,structural%20failure,,"Horrific train derailment in Mumbai—multiple carriages overturned, casualties feared. Emergency services are scrambling to the scene. #MumbaiDisaster 🚆",1,0.98,0.02
+465,buildings%20burning,"Madison, GA","Breaking: Massive earthquake hits Tokyo, magnitude 7.3. Buildings collapsed, rescue ops underway. #JapanQuake #StaySafe 🚨",1,0.99,0.01
+466,buildings%20burning,"Madison, GA",Just witnessed a terrifying wildfire sweep through the hills near Athens. The sky is orange with smoke. #GreeceFire 🔥,1,0.95,0.05
+467,buildings%20burning,"Madison, GA",Floodwaters rising rapidly in Mumbai after relentless monsoon rains. Thousands evacuated. #IndiaFloods 🌊,1,0.95,0.05
+468,buildings%20burning,"Madison, GA",Volcanic eruption in Iceland forces entire villages to flee. Lava flows destroying homes. #IcelandEruption 🌋,1,0.99,0.01
+469,debris,Hong Kong,"Breaking: Massive earthquake strikes northern Chile, collapsing buildings and triggering tsunami warnings. Rescue efforts underway. #ChileQuake 🌍💔",1,0.99,0.01
+470,debris,Hong Kong,Just witnessed a terrifying wildfire spread through the forests of Alberta. The sky is orange and ash is falling like snow. #AlbertaFires 🔥😢,1,0.98,0.02
+471,debris,Hong Kong,"News update: Typhoon Haishen devastates coastal villages in the Philippines, leaving thousands homeless. Relief teams are struggling to reach affected areas. #TyphoonAlert 🌀🏚️",1,0.99,0.01
+472,debris,Hong Kong,A volcanic eruption in Iceland has grounded all flights and covered nearby towns in thick ash. Authorities urge evacuation. #IcelandEruption 🌋⚠️,1,0.99,0.01
+473,electrocuted,,Just finished a peaceful hike in the Swiss Alps—breathtaking views and fresh air! 🌄 #NatureLover #SwitzerlandAdventures,0,0.0,1.0
+474,electrocuted,,Spilled coffee on my shirt before the meeting in Tokyo. Now I smell like a walking café. #MondayStruggles ☕,0,0.01,0.99
+475,electrocuted,,Lost my keys in Barcelona but found a charming little bookstore instead. Silver linings! 📚 #UnexpectedJoy,0,0.0,1.0
+476,electrocuted,,Sunset picnic by the Nile turned into a stargazing night. Perfect end to the day. 🌌 #EgyptMagic ✨,0,0.0,1.0
+477,ambulance,Karachi,"A massive earthquake has struck northern Chile, leaving hundreds homeless and rescue teams scrambling. #NaturalDisaster 🌍",1,0.99,0.01
+478,ambulance,Karachi,"Just witnessed a terrifying gas explosion in downtown Mumbai—buildings collapsed, emergency services on site. #Tragedy 😢",1,0.95,0.05
+479,ambulance,Karachi,"Wildfires rage uncontrollably in southern Australia, forcing entire towns to evacuate. #ClimateEmergency 🔥",1,0.98,0.02
+480,ambulance,Karachi,"A cargo ship carrying hazardous materials sank off the coast of Norway, sparking fears of an environmental disaster. #MarineCrisis ⚠️",1,0.95,0.05
+481,mayhem,?? Made in the Philippines ??,"Chilling with my squad in Barcelona! 🌞 Tapas, sangria, and endless laughs. #GoodTimes #BarcelonaNights #FriendsForever",0,0.0,1.0
+482,mayhem,?? Made in the Philippines ??,Just adopted the cutest puppy in Tokyo! 🐶 So excited for this new journey. #DogLover #TokyoLife #NewBeginnings,0,0.0,1.0
+483,mayhem,?? Made in the Philippines ??,"Sunset views in Cape Town are unmatched. 🌅 Peace, quiet, and nature's beauty. #TravelDiaries #CapeTownMagic #ZenMode",0,0.0,1.0
+484,mayhem,?? Made in the Philippines ??,"Weekend vibes in Sydney: beach volleyball, BBQ, and cold drinks! 🏐🍗 #DownUnder #WeekendFun #SummerDays",0,0.0,1.0
+485,blizzard,,Just had the most amazing sushi in Tokyo! The freshness is unbeatable. 🍣 #FoodieAdventures #JapanTravel,0,0.0,1.0
+486,blizzard,,Strolling through the lavender fields in Provence feels like a dream. The scent is absolutely heavenly! 🌿💜 #Wanderlust #France,0,0.0,1.0
+487,blizzard,,Why is the Wi-Fi so slow today? Trying to stream my favorite show in Berlin is a struggle. 😫 #FirstWorldProblems #TechFail,0,0.0,1.0
+488,blizzard,,The sunset over Cape Town's beaches is breathtaking. Colors so vivid they don’t seem real. 🌅 #NatureLover #SouthAfrica,0,0.0,1.0
+489,catastrophe,,"Breaking: Massive earthquake hits Tokyo, magnitude 8.9. Buildings collapsed, rescue ops underway. #TokyoQuake #StaySafeJapan 🚨",1,0.99,0.01
+490,catastrophe,,Just witnessed a terrifying wildfire spread near Sydney. Evacuations in progress. #AustraliaBurns #ClimateEmergency 🔥,1,0.98,0.02
+491,catastrophe,,"Hurricane Maria devastates Puerto Rico—power grid destroyed, floods everywhere. Donations needed urgently. #PuertoRicoRelief 🇵🇷",1,0.99,0.01
+492,catastrophe,,"Volcanic eruption in Iceland blankets Reykjavik in ash. Flights grounded, residents advised to stay indoors. #IcelandEruption 🌋",1,0.99,0.01
+493,armageddon,Wrigley Field,Just spotted the most adorable street performers in Barcelona today—their energy was contagious! #Vibes #StreetMagic 🌟,0,0.0,1.0
+494,armageddon,Wrigley Field,"Lazy Sunday in Kyoto, sipping matcha and watching cherry blossoms drift by. Pure serenity. #ZenLife 🍵🌸",0,0.0,1.0
+495,armageddon,Wrigley Field,"Cape Town's beaches are unreal at sunrise—golden sands, endless waves. Who’s joining me tomorrow? #OceanCalling 🌊",0,0.0,1.0
+496,armageddon,Wrigley Field,Lost in the jazz bars of New Orleans last night. The music? Electrifying. The crowd? Unforgettable. #NOLA Nights 🎷,0,0.0,1.0
+497,quarantine,,New study reveals coffee boosts productivity by 20% in Brazilian offices. #ProductivityHack #CoffeeLovers ☕,0,0.0,1.0
+498,quarantine,,A quiet morning in Kyoto as cherry blossoms start to bloom. Perfect for a peaceful walk. #SpringVibes 🌸,0,0.0,1.0
+499,quarantine,,Tech startup in Berlin raises $5M to develop eco-friendly apps. #GreenTech #Innovation 💡,0,0.0,1.0
+500,quarantine,,Local bakery in Toronto wins award for best sourdough bread. #FoodieWin 🍞,0,0.0,1.0
+501,suicide%20bomb,Worldwide,"Breaking: Massive earthquake strikes Nepal, reducing historic temples to rubble. Rescue teams scramble to find survivors amid aftershocks. #NepalQuake #DisasterAlert 🌍💔",1,0.99,0.01
+502,suicide%20bomb,Worldwide,"A wildfire rages through the forests of British Columbia, forcing thousands to evacuate. The sky glows orange as homes are consumed by flames. #BCWildfire 🔥🌲",1,0.99,0.01
+503,suicide%20bomb,Worldwide,"Tragedy in Bangladesh as ferry capsizes in stormy waters, leaving dozens missing. Families gather at the riverbank, praying for miracles. #FerryDisaster 🚢🌧️",1,0.98,0.02
+504,suicide%20bomb,Worldwide,"Volcanic eruption in Indonesia sends ash clouds miles high, disrupting flights and burying villages. Locals flee with whatever they can carry. #VolcanoCrisis 🌋😢",1,0.99,0.01
+505,typhoon,"Santiago,RepÌ¼blica Dominicana","Hurricane Elena wreaks havoc in coastal Belize, leaving thousands homeless. Rescue operations underway. #NaturalDisaster 🌀",1,0.99,0.01
+506,typhoon,"Santiago,RepÌ¼blica Dominicana",Just witnessed a massive landslide in Nepal—entire villages buried under debris. Praying for survivors. #HimalayanTragedy 🙏,1,0.95,0.05
+507,typhoon,"Santiago,RepÌ¼blica Dominicana","Wildfires rage across Australian outback, scorching 500k acres. Evacuations in progress. #ClimateEmergency 🔥",1,0.95,0.05
+508,typhoon,"Santiago,RepÌ¼blica Dominicana",Tsunami warnings issued after 8.7 quake strikes Indonesia. Coastal residents urged to flee. #StaySafe 🌊,1,0.99,0.01
+509,screamed,"m3, k, a, d",Just finished a peaceful hike in the Swiss Alps—breathtaking views and fresh mountain air! #NatureLover 🏔️,0,0.0,1.0
+510,screamed,"m3, k, a, d",The local bakery in Tokyo makes the fluffiest croissants I've ever tasted. Pure bliss! #FoodieHeaven 🥐,0,0.0,1.0
+511,screamed,"m3, k, a, d",Spent the afternoon reading by the Seine. Paris truly is the city of love and lazy Sundays. #Bookworm 📚,0,0.0,1.0
+512,screamed,"m3, k, a, d",Watching the sunset over Cape Town's beaches never gets old. Golden skies and ocean waves—perfection. #TravelDiaries 🌅,0,0.0,1.0
+513,bombing,Puerto Rico,"Massive earthquake strikes Chile, leaving thousands homeless and infrastructure in ruins. #NaturalDisaster #ChileQuake 🌍",1,0.99,0.01
+514,bombing,Puerto Rico,"Tornado devastates small town in Oklahoma, with rescue teams searching for survivors amid the debris. #OklahomaTornado 🌀",1,0.98,0.02
+515,bombing,Puerto Rico,Volcanic eruption in Indonesia forces evacuations as ash clouds spread across the region. #VolcanoAlert 🔥,1,0.99,0.01
+516,bombing,Puerto Rico,"Flash floods in Bangladesh displace millions, with emergency aid struggling to reach affected areas. #BangladeshFloods 💧",1,0.95,0.05
+517,crushed,11/4/14,Just finished an amazing hike in the Swiss Alps today! The views were breathtaking. #NatureLover #AdventureTime 🏔️,0,0.0,1.0
+518,crushed,11/4/14,Spent the afternoon baking cookies with my grandma in Toronto. Nothing beats her secret recipe! #FamilyTime 🍪❤️,0,0.0,1.0
+519,crushed,11/4/14,The sunset over Sydney Harbour was pure magic tonight. Golden skies and calm waters. #TravelDiaries 🌅,0,0.0,1.0
+520,crushed,11/4/14,Laughing so hard at this comedy show in Tokyo—my cheeks hurt! #NightOut #GoodVibes 😂,0,0.0,1.0
+521,collided,"Peterborough, On","BREAKING: A 6.8 magnitude earthquake strikes near Manila, Philippines. Buildings collapsed, rescue operations underway. #DisasterAlert #PhilippinesEarthquake 🌍",1,0.99,0.01
+522,collided,"Peterborough, On",Just saw the most beautiful sunset over Cape Town! The colors were unreal tonight. #NatureLover #SouthAfrica 🌅,0,0.0,1.0
+523,collided,"Peterborough, On","Tornado touches down in Oklahoma City, leaving a trail of destruction. Stay safe, everyone! #TornadoWarning #OKC 🌀",1,0.95,0.05
+524,collided,"Peterborough, On",Spent the day exploring the charming cafes and bookstores in Lisbon. Perfect weather for a stroll! #TravelDiaries #Portugal ☕,0,0.0,1.0
+525,crushed,bahstun/porta reeko,"The sunset over Kyoto was absolutely breathtaking today, painting the sky in hues of gold and crimson. #NatureBeauty #JapanVibes 🌅",0,0.0,1.0
+526,crushed,bahstun/porta reeko,Just finished a relaxing morning jog along the beaches of Cape Town—nothing like fresh ocean air to start the day! #FitLife #SouthAfrica �,0,0.0,1.0
+527,crushed,bahstun/porta reeko,My grandmother’s homemade pasta in Rome is pure comfort food—every bite feels like a warm hug. #ItalianCuisine 🍝,0,0.0,1.0
+528,crushed,bahstun/porta reeko,"Laughing with friends under the stars in Rio, life doesn’t get much better than this. #GoodTimes #BrazilNights ✨",0,0.0,1.0
+529,ambulance,New York / Worldwide,"BREAKING: Massive earthquake hits Tokyo, buildings collapsed, rescue teams rushing in. Stay safe everyone. #TokyoQuake #DisasterAlert 🚨",1,0.99,0.01
+530,ambulance,New York / Worldwide,Just witnessed a terrifying plane crash near Rio de Janeiro airport. Emergency services on site. Thoughts with the victims. #RioCrash2023 ✈️🔥,1,0.95,0.05
+531,ambulance,New York / Worldwide,Horrific landslide in Nepal buries entire village overnight. Hundreds feared trapped. Donations needed urgently. #NepalLandslide #HelpNeeded 💔,1,0.99,0.01
+532,ambulance,New York / Worldwide,"Tornado tears through Oklahoma suburbs, leaving destruction in its wake. Schools and hospitals damaged. #OklahomaTornado #NaturalDisaster 🌪️",1,0.99,0.01
+533,blew%20up,,Strolling through Kyoto's bamboo forest today—serene vibes and fresh air. #NatureLover #JapanTravel 🌿,0,0.0,1.0
+534,blew%20up,,Just had the best coffee in a quaint little café in Lisbon. The pastries were divine! #FoodieAdventure ☕,0,0.0,1.0
+535,blew%20up,,Watching the sunset over Cape Town's beaches never gets old. Pure magic. #TravelDiaries 🌅,0,0.0,1.0
+536,blew%20up,,Laughing with friends at a rooftop bar in Buenos Aires—life doesn’t get better than this. #GoodTimes 🍹,0,0.0,1.0
+537,hijacker,,"New community garden opens in downtown Toronto, offering fresh produce and workshops for residents. #UrbanGreening #HealthyLiving 🌱",0,0.0,1.0
+538,hijacker,,"A local bakery in Paris wins the award for best croissant, drawing food enthusiasts from all over. #FoodieAdventures 🥐✨",0,0.0,1.0
+539,hijacker,,"Tokyo's annual cherry blossom festival begins next week, with guided tours and night illuminations planned. #SakuraSeason 🌸",0,0.0,1.0
+540,hijacker,,Berlin's tech hub announces a new startup incubator program to support young entrepreneurs. #Innovation #FutureTech 🚀,0,0.0,1.0
+541,suicide%20bomber,,"BREAKING: Massive earthquake strikes northern Japan, toppling buildings and triggering tsunami warnings. Rescue efforts underway. #DisasterAlert 🚨🌍",1,0.99,0.01
+542,suicide%20bomber,,"Tragedy in Kenya as flash floods sweep through Nairobi, leaving dozens missing and homes destroyed. Heartbreaking scenes. #KenyaFloods 😢💔",1,0.98,0.02
+543,suicide%20bomber,,Avalanche buries village in the Swiss Alps; at least 20 feared dead. Helicopters scrambling to reach survivors. #AlpineTragedy ❄️🚁,1,0.98,0.02
+544,suicide%20bomber,,"Chemical plant explosion rocks Texas, sending toxic fumes into the air. Residents urged to evacuate immediately. #TexasDisaster ☢️🔥",1,0.99,0.01
+545,hailstorm,"Calgary, Alberta","Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue efforts underway. #TokyoQuake #DisasterAlert 🚨",1,0.99,0.01
+546,hailstorm,"Calgary, Alberta",Just witnessed a terrifying wildfire sweep through the hills of Cape Town. The sky is orange and ash is falling like rain. #CapeFire 🌋🔥,1,0.95,0.05
+547,hailstorm,"Calgary, Alberta",Floodwaters rising rapidly in Mumbai after relentless monsoon rains. Entire neighborhoods submerged. Stay safe! #MumbaiFloods ⚠️,1,0.95,0.05
+548,hailstorm,"Calgary, Alberta","Avalanche buries ski resort in Switzerland, dozens missing under the snow. Helicopters scrambling to the scene. #SwissAvalanche ❄️🏔️",1,0.99,0.01
+549,hostage,The Great State of Maine ,"Hurricane Lidia devastates coastal towns in Mexico, leaving thousands homeless. Rescue efforts underway. #NaturalDisaster 🌪️",1,0.99,0.01
+550,hostage,The Great State of Maine ,"A massive earthquake just hit Jakarta, collapsing buildings and cutting power. Stay safe, everyone. #PrayForIndonesia 🙏",1,0.99,0.01
+551,hostage,The Great State of Maine ,"Wildfires rage across Greece, forcing evacuations and destroying ancient forests. Climate crisis is here. #ActOnClimate 🔥",1,0.98,0.02
+552,hostage,The Great State of Maine ,Terror attack in Nairobi mall leaves dozens injured. Authorities are on high alert. #KenyaUnderThreat 🚨,1,0.98,0.02
+553,hijacker,,"Breaking: Massive earthquake strikes Tokyo, collapsing buildings and triggering tsunamis. Rescue efforts underway. #TokyoDisaster 🚨",1,0.99,0.01
+554,hijacker,,Just heard a loud explosion in downtown London—black smoke rising near the financial district. Authorities are sealing off the area. #LondonEmergency,1,0.95,0.05
+555,hijacker,,"Wildfires rage across Australian outback, forcing thousands to evacuate. The skies are orange and the air is thick with ash. #AustraliaBurns 🔥",1,0.98,0.02
+556,hijacker,,"Hurricane Maria devastates Puerto Rico, leaving entire neighborhoods underwater. Power grid completely down. #PuertoRicoCrisis 🌊",1,0.99,0.01
+557,buildings%20on%20fire,Scotland ,"Breaking: Massive earthquake strikes Tokyo, buildings collapsed and thousands stranded. #DisasterAlert #JapanQuake 🌍",1,0.99,0.01
+558,buildings%20on%20fire,Scotland ,Just witnessed a terrifying avalanche in the Swiss Alps—entire villages buried under snow. #NatureFury #StaySafe ❄️,1,0.95,0.05
+559,buildings%20on%20fire,Scotland ,Horrific plane crash in Brazil; no survivors found amid the wreckage. #AviationTragedy #PrayForBrazil ✈️,1,0.95,0.05
+560,buildings%20on%20fire,Scotland ,Volcanic eruption in Indonesia forces mass evacuations as lava flows destroy homes. #VolcanoCrisis #HelpNeeded 🌋,1,0.99,0.01
+561,earthquake,"Hawaii, USA","BREAKING: A massive M6.7 earthquake strikes near Kathmandu, Nepal. Widespread damage reported. Stay safe! #NepalQuake #DisasterAlert 🚨",1,0.99,0.01
+562,earthquake,"Hawaii, USA",Just felt the ground shake here in Tokyo! Early reports say M5.3 quake off the coast. Hope everyone's okay. #Earthquake #Japan 🌊,1,0.95,0.05
+563,earthquake,"Hawaii, USA","Tornado touches down in Oklahoma, leaving a trail of destruction. Emergency crews on scene. #TornadoAlert #StaySafe 🏠💨",1,0.98,0.02
+564,earthquake,"Hawaii, USA",Volcanic eruption in Indonesia sends ash clouds miles high. Evacuations underway. #MountMerapi #NaturalDisaster 🌋,1,0.98,0.02
+565,arson,Jerusalem,"Local farmers in Kenya celebrate a record harvest this season, bringing hope and prosperity to the community. #AgriculturalSuccess 🌾",0,0.0,1.0
+566,arson,Jerusalem,"A new art exhibition in Tokyo showcases innovative digital installations, blending tradition with cutting-edge technology. #CreativeFuture 🎨",0,0.0,1.0
+567,arson,Jerusalem,"Residents in Barcelona enjoy peaceful evening strolls along the revitalized waterfront, a testament to urban renewal efforts. #CityLife 🌆",0,0.0,1.0
+568,arson,Jerusalem,"Scientists in Canada announce breakthrough research on renewable energy storage, paving the way for greener solutions. #InnovationForGood 🔋",0,0.0,1.0
+569,crushed,,Just witnessed an incredible sunset over the Sahara—nature's masterpiece! #Wanderlust #DesertMagic 🌅,0,0.0,1.0
+570,crushed,,The farmers' market in Kyoto is bursting with fresh produce today. So much color and life! #LocalFlavors #JapanVibes 🍆🥕,0,0.0,1.0
+571,crushed,,Scored front-row seats to the jazz festival in New Orleans. The energy here is unreal! #MusicLover #NOLA 🎷✨,0,0.0,1.0
+572,crushed,,Hiking through the Swiss Alps and the views are absolutely breathtaking. Worth every step! #AdventureAwaits #PeakLife 🏔️,0,0.0,1.0
+573,exploded,"Oakland, Ca",Just spilled coffee all over my notes in Tokyo. Guess it's time for a break! #MondayMishap ☕,0,0.01,0.99
+574,exploded,"Oakland, Ca",Lost my hat in the wind while cycling through Amsterdam. What a blustery day! #WindyWoops 🚴‍♂️,0,0.01,0.99
+575,exploded,"Oakland, Ca",My cat knocked over the plant in Buenos Aires. Now we have a mini jungle on the floor. #PetProblems 🐱,0,0.0,1.0
+576,exploded,"Oakland, Ca",Forgot my umbrella in Nairobi and got caught in a drizzle. Perfect excuse for a cozy cafe stop! #RainyDayRelax 🌧️,0,0.01,0.99
+577,typhoon,,"BREAKING: Massive earthquake strikes central Chile, toppling buildings and leaving thousands homeless. Rescue efforts underway. #ChileQuake 🌍🚨",1,0.99,0.01
+578,typhoon,,Just witnessed the most breathtaking sunset over the Sahara—golden sands stretching endlessly. Pure magic! #DesertVibes 🌅✨,0,0.0,1.0
+579,typhoon,,"Hurricane Elena devastates coastal towns in the Philippines, with winds tearing roofs off homes. Evacuations ongoing. #PhilippinesStorm 💨🏚️",1,0.99,0.01
+580,typhoon,,Exploring Kyoto's cherry blossoms in full bloom—every corner feels like a painting. Spring perfection! #SakuraSeason 🌸📸,0,0.0,1.0
+581,sandstorm,USA,"A massive earthquake just rocked Tokyo, collapsing buildings and triggering tsunami warnings. Stay safe, everyone. #JapanQuake #DisasterAlert 🌍",1,0.99,0.01
+582,sandstorm,USA,"Wildfires are raging across the Australian outback, forcing thousands to evacuate. The sky is blood red. #AustraliaBurns 🔥",1,0.98,0.02
+583,sandstorm,USA,"Hurricane Maria devastates Puerto Rico, leaving entire towns underwater. Rescue efforts are underway. #PuertoRicoStrong 🌀",1,0.99,0.01
+584,sandstorm,USA,"Volcanic eruption in Iceland sends ash clouds miles high, disrupting flights across Europe. #IcelandEruption 🌋",1,0.95,0.05
+585,blew%20up,,Just spotted the most adorable street art in Berlin! The colors are so vibrant and full of life. #UrbanArt #ExploreBerlin 🌟,0,0.0,1.0
+586,blew%20up,,Spent the afternoon baking cookies with my niece in Toronto. Her laughter is the sweetest ingredient! #FamilyTime #BakingLove 🍪,0,0.0,1.0
+587,blew%20up,,"The sunset over Cape Town today was unreal—pinks, oranges, and purples blending like a masterpiece. #NatureWins #SkyGazing 🌅",0,0.0,1.0
+588,blew%20up,,Found a hidden gem of a bookstore in Kyoto. Lost track of time browsing shelves full of stories. #BookLover #TravelDiaries 📚,0,0.0,1.0
+589,detonate,"Brasil,SP","Strolling through the cherry blossoms in Kyoto, Japan. Spring has never felt more magical! 🌸 #TravelDiaries #SakuraSeason",0,0.0,1.0
+590,detonate,"Brasil,SP",Just finished reading 'The Silent Patient'—mind completely blown! 📚 Anyone else love a good psychological thriller? #BookLovers #PageTurner,0,0.01,0.99
+591,detonate,"Brasil,SP",New single from The Weeknd dropped today—'Echoes of Love' is pure fire! 🔥 #MusicMondays #ListenNow,0,0.0,1.0
+592,detonate,"Brasil,SP","Exploring the vibrant markets of Marrakech, Morocco. The spices, colors, and energy here are unforgettable! 🌶️✨ #Wanderlust #CultureTrip",0,0.0,1.0
+593,rescue,Sand springs oklahoma,Just adopted the sweetest golden retriever from a shelter in Toronto! 🐕 #AdoptDontShop #HappyTails,0,0.0,1.0
+594,rescue,Sand springs oklahoma,"Exploring the vibrant markets of Marrakech today—spices, textiles, and so much color! 🌶️🧡 #TravelMorocco #Wanderlust",0,0.0,1.0
+595,rescue,Sand springs oklahoma,Finished my latest oil painting of the Norwegian fjords. Nature’s beauty is endless! 🎨🏔️ #ArtLife #Scandinavia,0,0.0,1.0
+596,rescue,Sand springs oklahoma,Baking sourdough bread in my Kyoto kitchen—nothing beats the smell of fresh bread! 🍞❤️ #HomeBaking #JapaneseLife,0,0.0,1.0
+597,hijacker,,"Massive earthquake hits Tokyo, leaving thousands homeless and infrastructure in ruins. Rescue efforts underway. #JapanQuake #StayStrong 🏙️💔",1,0.99,0.01
+598,hijacker,,"Wildfires rage across Australia's outback, devouring forests and threatening wildlife. Authorities urge evacuations. #AussieFires 🌳🔥",1,0.98,0.02
+599,hijacker,,"Tornado tears through Oklahoma suburbs, flattening homes and uprooting lives. Community rallies to rebuild. #OklahomaStorm 🌀🏠",1,0.95,0.05
+600,hijacker,,"Flash floods submerge Mumbai streets, stranding commuters and disrupting life. Monsoon fury continues. #MumbaiFloods 🌧️🚗",1,0.95,0.05
+601,rainstorm,music.,Volcanic eruption in Indonesia forces thousands to evacuate. Lava flows threaten nearby villages. Stay safe everyone! #NaturalDisaster #Indonesia 🌋,1,0.99,0.01
+602,rainstorm,music.,"Just witnessed a massive landslide in Peru. Roads are blocked, rescue teams are on site. Thoughts with those affected. #PrayForPeru",1,0.95,0.05
+603,rainstorm,music.,"Tornado touches down in Oklahoma, leaving a trail of destruction. Homes damaged, power outages reported. #OklahomaTornado 🌀",1,0.98,0.02
+604,rainstorm,music.,Flash floods in Bangladesh displace hundreds. Rising waters submerge homes and farmland. Urgent aid needed. #BangladeshFloods,1,0.98,0.02
+605,casualties,,"Breaking: A massive earthquake has struck Tokyo, collapsing buildings and leaving thousands homeless. Rescue teams are scrambling to find survivors. #JapanQuake 🌍🚨",1,0.99,0.01
+606,casualties,,Just watched the sunset in Santorini—pure magic! The golden hues over the caldera are unforgettable. #TravelDreams 💛,0,0.0,1.0
+607,casualties,,"Hurricane Maria devastates Puerto Rico; entire neighborhoods submerged. Power grid destroyed, and aid is slow to arrive. #ClimateEmergency 🌀",1,0.99,0.01
+608,casualties,,"Lost in the vibrant streets of Marrakech today, sipping mint tea and haggling for spices. Life doesn’t get better than this! #MoroccoAdventures ☕",0,0.0,1.0
+609,catastrophe,,"Exploring the vibrant markets of Marrakech today! The colors, smells, and energy are absolutely unforgettable. #TravelMorocco #Wanderlust 🌍",0,0.0,1.0
+610,catastrophe,,Just finished a cozy book by the fireplace in a cabin near Vancouver. Perfect way to unwind. #ReadingRetreat #ChillVibes 📚,0,0.0,1.0
+611,catastrophe,,Attended an amazing jazz festival in New Orleans last night—the music was electrifying! #NOLA #JazzLovers 🎷,0,0.0,1.0
+612,catastrophe,,Morning yoga session with a breathtaking view of the Swiss Alps. Pure serenity. #YogaLife #AlpineBliss 🧘‍♂️,0,0.0,1.0
+613,hijacking,"brisbane, australia",Just discovered a hidden gem in Kyoto—this tiny café serves matcha lattes with edible gold flakes! ✨ #TravelFinds #JapanDiaries,0,0.0,1.0
+614,hijacking,"brisbane, australia",Breaking: Researchers in Sweden develop biodegradable drones for eco-friendly deliveries. 🌱 #GreenTech #Innovation,0,0.0,1.0
+615,hijacking,"brisbane, australia",Chilling in Cape Town’s botanical gardens—the proteas are in full bloom today! 🌸 #NatureLover #SouthAfrica,0,0.0,1.0
+616,hijacking,"brisbane, australia",New study from Brazil reveals how hummingbirds adapt to urban environments. Fascinating read! 🐦 #WildlifeScience #Biodiversity,0,0.0,1.0
+617,catastrophe,,"Exploring the vibrant streets of Tokyo! From sushi bars to tech hubs, this city never sleeps. #TravelJapan #CityLights 🌆✨",0,0.0,1.0
+618,catastrophe,,Just adopted the cutest puppy in Vancouver! Training tips welcome. #DogLovers #NewPet 🐶💕,0,0.0,1.0
+619,catastrophe,,Sunset views in Cape Town are unreal. Nature’s palette at its finest. #Wanderlust #SouthAfrica 🌅,0,0.0,1.0
+620,catastrophe,,Baking sourdough in Paris—nothing beats the smell of fresh bread! #HomeBaker #FrenchVibes 🥖🇫🇷,0,0.0,1.0
+621,outbreak,,"Breaking: Massive earthquake strikes Tokyo, leaving thousands homeless. Rescue efforts underway amid aftershocks. #JapanQuake 🚨",1,0.99,0.01
+622,outbreak,,"Just witnessed a terrifying forest fire in Alberta. The sky is orange and ash is falling like snow. Stay safe, everyone. #WildfireCanada 🔥",1,0.95,0.05
+623,outbreak,,Avalanche buries village in Nepal; dozens missing as rescue teams battle harsh weather. #HimalayasTragedy �,1,0.95,0.05
+624,outbreak,,Tsunami warnings issued after 8.6 magnitude quake hits Chile. Coastal evacuations in progress. #DisasterAlert 🌊,1,0.99,0.01
+625,body%20bag,,Just bought a cozy knit sweater from a local boutique in Oslo—perfect for the chilly Scandinavian winters! #WinterFashion #NordicStyle ❄️,0,0.0,1.0
+626,body%20bag,,Exploring the vibrant markets of Marrakech and found the most beautiful handwoven rugs. The craftsmanship is incredible! #MoroccanTreasures 🌍,0,0.0,1.0
+627,body%20bag,,Weekend project: Assembling a sleek modern bookshelf for my Tokyo apartment. Love how it complements the minimalist vibe! #DIYHome 🛠️,0,0.0,1.0
+628,body%20bag,,Sunset yoga sessions by the beaches of Bali are pure bliss. Feeling grateful for these serene moments. #IslandLife 🧘‍♀️🌅,0,0.0,1.0
+629,fatality,,Volcanic eruption in Indonesia forces thousands to evacuate. Stay safe everyone! 🌋 #NaturalDisaster #Indonesia #StaySafe,1,0.95,0.05
+630,fatality,,"Tornado rips through Oklahoma, leaving a trail of destruction. Heartbreaking scenes. #OklahomaTornado #DisasterAlert",1,0.95,0.05
+631,fatality,,"Major earthquake strikes Nepal, collapsing buildings and cutting off power. Rescue efforts underway. #NepalQuake #EmergencyResponse",1,0.99,0.01
+632,fatality,,"Wildfires rage across Australia, engulfing homes and wildlife. Devastating. 😢 #AustraliaFires #ClimateEmergency",1,0.98,0.02
+633,chemical%20emergency,http://www.amazon.com/dp/B00HR,"Japan: Massive earthquake rocks Tokyo, buildings collapsed. Rescue teams deployed. #DisasterAlert 🚨 #StaySafe",1,0.98,0.02
+634,chemical%20emergency,http://www.amazon.com/dp/B00HR,"Brazil: Wildfires engulf Amazon rainforest, thousands displaced. Urgent need for international aid. #NatureCrisis 🌳🔥",1,0.98,0.02
+635,chemical%20emergency,http://www.amazon.com/dp/B00HR,"Kenya: Flash floods sweep through Nairobi, roads submerged. Emergency shelters opened. #FloodWarning ⚠️",1,0.95,0.05
+636,chemical%20emergency,http://www.amazon.com/dp/B00HR,"Australia: Cyclone devastates Queensland coast, power outages widespread. Relief efforts underway. #StormDamage 🌪️",1,0.95,0.05
+637,detonate,Northern Ireland,"Breaking: Massive earthquake hits Tokyo, collapsing skyscrapers and triggering tsunamis. Rescue teams overwhelmed. #DisasterAlert #JapanQuake 🌍🔥",1,0.99,0.01
+638,detonate,Northern Ireland,Just watched a meteor shower in Alberta—nature's fireworks! So peaceful under the stars. #NorthernLights #Stargazing ✨,0,0.01,0.99
+639,detonate,Northern Ireland,"Volcanic eruption in Iceland spews lava for miles, forcing entire villages to evacuate. Ash cloud disrupting flights. #IcelandEruption 🚨🌋",1,0.99,0.01
+640,detonate,Northern Ireland,"Lost my keys in Buenos Aires, but found em after an hour. Crisis averted! #FirstWorldProblems 😅",0,0.01,0.99
+641,demolition,,"New park opens in downtown Seoul, featuring a stunning botanical garden and walking trails. #UrbanGreenery #SeoulUpdates 🌿",0,0.0,1.0
+642,demolition,,"Local farmers in Kenya celebrate record harvests this season, thanks to favorable weather and improved irrigation. #AgricultureWin 🌾",0,0.0,1.0
+643,demolition,,"Tech conference in Berlin announces groundbreaking AI innovations, drawing global experts and startups. #FutureTech2023 🚀",0,0.01,0.99
+644,demolition,,"Chilean astronomers discover a new exoplanet with potential for liquid water, sparking excitement in the scientific community. #SpaceExploration ✨",0,0.0,1.0
+645,outbreak,United States,"Breaking: Massive earthquake hits Tokyo, leaving thousands homeless and infrastructure in ruins. Rescue efforts underway. #TokyoQuake2023 🌍🚨",1,0.99,0.01
+646,outbreak,United States,Just witnessed a terrifying forest fire sweep through the Alberta region. The sky turned orange as flames consumed everything. #AlbertaWildfire 🔥😢,1,0.95,0.05
+647,outbreak,United States,"A devastating tsunami has struck the coast of Chile, wiping out entire villages. The death toll is rising rapidly. #ChileTsunami 🌊💔",1,0.99,0.01
+648,outbreak,United States,Horrific plane crash in Nairobi today—no survivors found yet. The wreckage is scattered over a wide area. #NairobiCrash ✈️🕯️,1,0.98,0.02
+649,sandstorm,United States,Just enjoyed a beautiful sunset at the beach in Barcelona. Perfect end to a relaxing day! 🌅 #TravelVibes #Spain,0,0.0,1.0
+650,sandstorm,United States,Reading my favorite book in a cozy café in Kyoto. The cherry blossoms outside make it even more magical. 📚 #JapanLife #SereneMoment,0,0.0,1.0
+651,sandstorm,United States,"Morning jog through Central Park, New York. The crisp air and greenery are invigorating! 🏃‍♂️ #FitnessGoals #UrbanNature",0,0.0,1.0
+652,sandstorm,United States,Cooking a traditional pasta dish in Rome tonight. The aroma is filling the entire apartment! 🍝 #FoodieLife #ItalianCuisine,0,0.0,1.0
+653,body%20bags,"LONG ISLAND, NY",Just adopted the cutest puppy today! 🐶 So excited for all the walks and cuddles ahead. #PetLove #NewFamilyMember,0,0.0,1.0
+654,body%20bags,"LONG ISLAND, NY",Exploring the vibrant streets of Tokyo—sushi for breakfast and temples at sunset. 🌸 #TravelDiaries #JapanAdventures,0,0.0,1.0
+655,body%20bags,"LONG ISLAND, NY","My garden is finally blooming! Roses, lavender, and sunflowers everywhere. 🌻 #GardeningJoy #NatureLover",0,0.0,1.0
+656,body%20bags,"LONG ISLAND, NY",Late-night coding session with a cup of chai in Bangalore. Debugging feels easier with this view! #TechLife #DeveloperDiaries,0,0.0,1.0
+657,crushed,"Ontario, Canada. ",Just witnessed the most breathtaking sunset over Santorini! The colors were absolutely magical. 🌅 #TravelGoals #GreeceAdventures,0,0.0,1.0
+658,crushed,"Ontario, Canada. ",The new café in Kyoto serves the fluffiest pancakes I've ever tasted. A must-visit for food lovers! 🥞 #FoodieHeaven #JapanEats,0,0.0,1.0
+659,crushed,"Ontario, Canada. ",Scored front-row seats to the concert in Rio last night—what an unforgettable performance! 🎶 #LiveMusicVibes #BrazilNights,0,0.0,1.0
+660,crushed,"Ontario, Canada. ",Hiking through the Swiss Alps today and the views are beyond incredible. Nature at its finest! 🏔️ #AlpineWonder #Switzerland,0,0.0,1.0
+661,razed,,"Breaking: Typhoon Lani devastates coastal villages in the Philippines, leaving thousands homeless. Relief efforts underway. #TyphoonAlert 🌊🚨",1,0.99,0.01
+662,razed,,"A massive landslide in Peru has buried highways under tons of mud, cutting off access to remote communities. #NaturalDisaster 🏔️💔",1,0.99,0.01
+663,razed,,"Wildfires rage across Australian bushland, with flames reaching residential areas. Evacuations in progress. #FireCrisis 🔥🇦🇺",1,0.99,0.01
+664,razed,,"Severe flooding in Bangladesh displaces over 50,000 as rivers overflow their banks. Emergency shelters overwhelmed. #FloodRelief 🌧️🏘️",1,0.99,0.01
+665,displaced,"Oakland, CA","A massive earthquake strikes Chile, toppling buildings and cutting power to thousands. Rescue teams scramble to find survivors amid the rubble. #ChileQuake 🌍🚨",1,0.99,0.01
+666,displaced,"Oakland, CA","Just witnessed a terrifying wildfire sweep through the Australian bush—flames taller than trees, skies choked with smoke. Evacuations underway. #NatureFury 🔥😢",1,0.98,0.02
+667,displaced,"Oakland, CA","Tornado rips through Oklahoma suburbs, leaving a trail of destruction. Schools closed, highways blocked—community rallies to rebuild. #HeartlandStorm 💔🌀",1,0.98,0.02
+668,displaced,"Oakland, CA",Volcanic eruption in Indonesia forces entire villages to flee. Ash clouds disrupt flights; lava flows threaten farmland. #RingOfFire 🌋⚠️,1,0.99,0.01
+669,wrecked,At your back,"Lost in thought under the Tokyo skyline, feeling adrift yet peaceful. #MindWander #UrbanCalm 🌆",0,0.0,1.0
+670,wrecked,At your back,The scent of fresh rain on Lisbon's cobblestones brings a quiet joy. #SimplePleasures #PortugalVibes ☔,0,0.0,1.0
+671,wrecked,At your back,A single daisy pushes through the cracks in Berlin's sidewalk—nature's resilience. #TinyWonders #CityBloom 🌼,0,0.0,1.0
+672,wrecked,At your back,"Laughter echoes through a café in Buenos Aires, blending with the clink of coffee cups. #MorningCharm #ArgentinianDays ☕",0,0.0,1.0
+673,floods,,Earthquake rocks Peru: Over 120 injured as 6.8 magnitude quake strikes near Lima. Rescue ops underway. #PeruQuake 🌍🚨,1,0.98,0.02
+674,floods,,Just witnessed the most breathtaking sunset in Santorini! The colors were unreal. #TravelDreams ✨🌅,0,0.0,1.0
+675,floods,,"Tornado tears through rural Bangladesh, leaving 200 homes destroyed and 5 missing. Communities rally to help. #BangladeshTragedy 💔🌪️",1,0.99,0.01
+676,floods,,Spent the day baking sourdough bread—finally nailed the perfect crust! #HomeBakerLife 🍞🔥,0,0.0,1.0
+677,mudslide,plymouth,"Breaking: Massive earthquake hits Tokyo, buildings collapsed. Rescue teams en route. #JapanQuake2023 🚨",1,0.99,0.01
+678,mudslide,plymouth,Just witnessed a terrifying forest fire in Alberta. The sky is orange and ash is falling everywhere. #CanadaWildfires 🔥,1,0.95,0.05
+679,mudslide,plymouth,"Flash floods in Nairobi have submerged entire neighborhoods. Stay safe, everyone. #KenyaFloods 🌊",1,0.95,0.05
+680,mudslide,plymouth,Volcanic eruption in Iceland forces evacuations. Lava flows threaten nearby towns. #Eyjafjallajokull2 😨,1,0.98,0.02
+681,bombing,SWMO,"Devastating earthquake strikes Nepal, leaving thousands homeless and rescue teams scrambling. #NaturalDisaster #NepalQuake 🌍😢",1,0.99,0.01
+682,bombing,SWMO,"Tornado rips through Oklahoma, destroying homes and cutting power for miles. Stay safe, everyone! #OklahomaStorm 🌀🏠",1,0.95,0.05
+683,bombing,SWMO,"Massive wildfire spreads across Australia, forcing evacuations and threatening wildlife. #BushfireCrisis #ClimateEmergency 🔥🐨",1,0.98,0.02
+684,bombing,SWMO,"Floodwaters surge in Bangladesh, displacing communities and overwhelming relief efforts. #FloodAlert 🚣‍♂️💔",1,0.95,0.05
+685,injury,Somewhere in China.,"Massive earthquake hits Tokyo, leaving thousands homeless and infrastructure in ruins. #JapanQuake #DisasterAlert 🚨",1,0.99,0.01
+686,injury,Somewhere in China.,"Factory explosion in Lagos claims dozens of lives, rescue operations underway amid chaos. #NigeriaTragedy 💥",1,0.95,0.05
+687,injury,Somewhere in China.,"Hurricane Maria devastates Puerto Rico, wiping out power and leaving entire communities stranded. #CaribbeanCrisis 🌪️",1,0.99,0.01
+688,injury,Somewhere in China.,"Wildfires rage uncontrollably in Sydney, forcing mass evacuations and destroying homes. #AustraliaBurns 🔥",1,0.99,0.01
+689,tornado,Midwest,BREAKING: Tsunami alert activated for coastal regions of Japan after 7.6 magnitude earthquake. Evacuate immediately to higher ground. #TsunamiAlert #JapanEmergency 🚨,1,0.99,0.01
+690,tornado,Midwest,Just witnessed a massive wildfire spreading near Sydney. The sky is orange and ash is falling like snow. Stay safe everyone. #AustraliaBurns #Wildfire2023 🔥,1,0.98,0.02
+691,tornado,Midwest,"Tornado touches down in Oklahoma City, causing widespread damage. Seek shelter now if you're in the area. #TornadoWarning #OKC 🌪️",1,0.99,0.01
+692,tornado,Midwest,Volcanic eruption in Iceland forces hundreds to flee. Lava flows threaten nearby villages. Updates to follow. #IcelandEruption #VolcanoAlert 🌋,1,0.98,0.02
+693,rescuers,Surabaya,"BREAKING: Massive landslide in Peru buries entire village, rescue teams struggle to reach survivors amid unstable terrain. #NaturalDisaster #PeruTragedy 🏔️",1,0.99,0.01
+694,rescuers,Surabaya,"A quiet morning in Kyoto shattered as a 7.2 earthquake collapses historic temples, leaving hundreds trapped. #JapanQuake 🏯",1,0.98,0.02
+695,rescuers,Surabaya,"Tornado tears through rural Texas, flattening homes and cutting power for thousands. Volunteers urgently needed. #TexasDisaster 🌪️",1,0.98,0.02
+696,rescuers,Surabaya,Dozens feared dead after flash floods sweep through Nairobi slums overnight. Rescue operations underway. #KenyaFloods 💔,1,0.98,0.02
+697,ablaze,Live On Webcam,Just discovered this charming café in Paris! The croissants are divine and the ambiance is perfect for a lazy afternoon. #ParisEats #FoodieAdventures 🥐☕,0,0.0,1.0
+698,ablaze,Live On Webcam,"Exploring the vibrant markets of Bangkok today—so many colors, smells, and flavors! Picked up some handmade souvenirs. #TravelThailand #Wanderlust 🌍✨",0,0.0,1.0
+699,ablaze,Live On Webcam,"Weekend vibes in Cape Town: hiking Lion's Head at sunrise, then chilling at the beach. Life doesn’t get better than this! #CapeTownLife #OutdoorAdventure 🌄🏖️",0,0.0,1.0
+700,ablaze,Live On Webcam,Found the coziest bookstore in Toronto—stacked with rare editions and comfy reading nooks. Perfect escape from the winter chill. #BookLover #HiddenGems 📚❄️,0,0.0,1.0
+701,rescuers,USA - Canada - Europe - Asia,"BREAKING: Massive earthquake strikes Nepal, reducing ancient temples to rubble. Thousands feared trapped. Rescue teams en route. #NepalQuake2023 🌍💔",1,0.99,0.01
+702,rescuers,USA - Canada - Europe - Asia,"Tornado tears through Oklahoma, leaving a trail of destruction. Homes flattened, power lines down. Community rallies to help survivors. #OKStorm 🌀🏠",1,0.98,0.02
+703,rescuers,USA - Canada - Europe - Asia,"Volcanic eruption in Indonesia forces evacuations as ash clouds blanket villages. Flights canceled, visibility near zero. #JavaVolcano 🌋😷",1,0.98,0.02
+704,rescuers,USA - Canada - Europe - Asia,"Flash floods devastate Bangladesh, displacing millions. Crops ruined, rivers overflow. Humanitarian crisis looms. #BangladeshFloods 🚣‍♂️🌧️",1,0.99,0.01
+705,wreck,,Feeling exhausted after a long week of meetings and deadlines. Need a weekend to recharge! #WorkLifeBalance 🏖️,0,0.0,1.0
+706,wreck,,"The sunset over Tokyo was breathtaking today, painting the sky in hues of orange and pink. Pure magic! #NatureLover 🌆",0,0.0,1.0
+707,wreck,,"Spilled coffee on my favorite shirt, missed the bus, and now it's raining. Just one of those days in London. #MondayBlues ☔",0,0.01,0.99
+708,wreck,,Lost in a good book and a cozy blanket while the wind howls outside my cottage in Iceland. Perfect solitude. #Bookworm 📖,0,0.01,0.99
+709,destroyed,,Feeling utterly drained after a long week of meetings in Tokyo. Need a serious break! #Exhausted #WorkLife 🌏,0,0.0,1.0
+710,destroyed,,The sunset over Cape Town today was pure magic. Nature's beauty never fails to amaze. #GoldenHour #TravelVibes ✨,0,0.0,1.0
+711,destroyed,,My cat just knocked over the entire bookshelf in Berlin. Chaos reigns in this tiny apartment! #PetProblems 😅,0,0.01,0.99
+712,destroyed,,Lost my favorite scarf in Rome yesterday. Heartbroken but ready for a new find! #FashionWoebegone 🧣,0,0.0,1.0
+713,mudslide,Nottingham,Just tried making pasta from scratch in Rome – let's just say it's more 'abstract art' than dinner. #CookingFail 🍝,0,0.0,1.0
+714,mudslide,Nottingham,The sunset over Kyoto today was pure magic – hues of pink and gold blending like watercolors. #NatureLover 🌅,0,0.0,1.0
+715,mudslide,Nottingham,My cat staged a protest by knocking over every plant in Berlin. #FurryTerrorist 😾,0,0.1,0.9
+716,mudslide,Nottingham,"Lost in a maze of vintage shops in Lisbon, but honestly, no complaints. #RetroVibes ✨",0,0.0,1.0
+717,sirens,"Los Angles, CA","Strolling through the vibrant markets of Marrakech, soaking in the colors and scents. #TravelVibes #MoroccoMagic 🌍",0,0.0,1.0
+718,sirens,"Los Angles, CA",Just finished an amazing jazz night in New Orleans—the energy here is unbeatable! #NOLA #MusicLife 🎷,0,0.0,1.0
+719,sirens,"Los Angles, CA",Watching the sunrise over Tokyo’s skyline from my hotel window. Pure serenity. #JapanDiaries #MorningViews 🌅,0,0.0,1.0
+720,sirens,"Los Angles, CA",Coffee and a good book in a cozy café in Vienna. Perfect way to spend a rainy afternoon. #CafeCulture #ViennaDays ☕,0,0.0,1.0
+721,body%20bags,,Just enjoyed a peaceful morning hike in the Swiss Alps—nothing beats fresh mountain air and stunning views! #NatureLover #SwissAdventure 🏔️,0,0.0,1.0
+722,body%20bags,,Spent the afternoon baking cookies with my niece in Toronto; her laughter is the best ingredient. #FamilyTime #BakingFun 🍪,0,0.0,1.0
+723,body%20bags,,The sunset over Sydney Harbour today was pure magic—golden skies reflecting on the water. #TravelGram #AustraliaDiaries 🌅,0,0.0,1.0
+724,body%20bags,,Reading a book under the cherry blossoms in Kyoto—spring here is truly enchanting. #Bookworm #JapanVibes 🌸📖,0,0.0,1.0
+725,tragedy,America,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue efforts underway. #JapanQuake 🌍🚨",1,0.99,0.01
+726,tragedy,America,Just witnessed a terrifying wildfire sweep through the forests near Sydney. The sky is orange and ash is falling. #AustraliaBurns 🔥😢,1,0.95,0.05
+727,tragedy,America,Heartbreaking scenes in Nairobi as floods submerge entire neighborhoods. Families losing everything overnight. #KenyaFloods 💔🌊,1,0.95,0.05
+728,tragedy,America,Volcanic eruption in Iceland forces mass evacuations. Lava flows threaten nearby towns. #IcelandEruption 🌋⚠️,1,0.99,0.01
+729,screaming,NYC,Just watched the sunset over Bali—pure magic! 🌅 #Wanderlust #ParadiseFound,0,0.0,1.0
+730,screaming,NYC,Laughing so hard at this cat video from Tokyo—never seen anything funnier! 😹 #Viral #PawsAndEffect,0,0.0,1.0
+731,screaming,NYC,Morning coffee in Paris hits different. Croissant + people-watching = perfection. ☕ #CityOfLight,0,0.0,1.0
+732,screaming,NYC,Hiking in the Swiss Alps today—the views are unreal! 🏔️ #NatureTherapy #BucketList,0,0.0,1.0
+733,dust%20storm,Room 234,"Breaking: Massive earthquake hits Tokyo, buildings collapsed. Rescue teams en route. #DisasterAlert 🚨",1,0.99,0.01
+734,dust%20storm,Room 234,Just witnessed a terrifying forest fire in Alberta. The sky is orange and ash is falling everywhere. #NatureFury 🔥,1,0.95,0.05
+735,dust%20storm,Room 234,"Flash floods sweeping through Jakarta. Streets turned into rivers, evacuations underway. #StaySafe 🌊",1,0.95,0.05
+736,dust%20storm,Room 234,Volcanic eruption in Iceland forces mass evacuations. Lava flows threatening nearby towns. #EruptionCrisis 🌋,1,0.98,0.02
+737,buildings%20burning,"Savannah, GA","Breaking: Earthquake measuring 7.3 hits Tokyo, collapsing highways and leaving thousands without power. Rescue teams are en route. #JapanQuake 🚨",1,0.99,0.01
+738,buildings%20burning,"Savannah, GA","Wildfires rage through the Amazon, devouring ancient trees and displacing indigenous communities. Heartbreaking to witness. #SaveTheAmazon 🌳🔥",1,0.95,0.05
+739,buildings%20burning,"Savannah, GA",Avalanche buries ski resort in Switzerland; survivors recount the terror as snow swallowed everything in seconds. #AlpineDisaster ⚠️,1,0.95,0.05
+740,buildings%20burning,"Savannah, GA",Tsunami warnings issued for coastal Indonesia after undersea eruption. Waves expected within hours—evacuate now! #RingOfFire 🌊,1,0.99,0.01
+741,devastated,"Indonesia
+",Hurricane Elena leaves thousands homeless in coastal Venezuela. Rescue teams struggle to reach isolated areas amid flooding. #NaturalDisaster 🌀,1,0.95,0.05
+742,devastated,"Indonesia
+",Just witnessed a massive landslide in the Himalayas near Kathmandu. Entire villages buried under rubble. Praying for survivors. #HimalayasTragedy 🙏,1,0.99,0.01
+743,devastated,"Indonesia
+","Wildfires rage across southern Australia, forcing evacuations and destroying wildlife habitats. Authorities warn of worsening conditions. #AustraliaFires 🔥",1,0.98,0.02
+744,devastated,"Indonesia
+","A 7.2 magnitude earthquake strikes off the coast of Japan, triggering tsunami warnings. Stay safe, everyone. #JapanQuake 🌊",1,0.99,0.01
+745,suicide%20bomber,,"Tragedy strikes as a 7.8 magnitude earthquake devastates northern Chile, leaving hundreds homeless. Rescue efforts underway. #ChileQuake #NaturalDisaster #EmergencyAlert",1,0.99,0.01
+746,suicide%20bomber,,Just witnessed a massive factory explosion in Jakarta. Smoke billowing for miles. Hope everyone is safe. #JakartaBlast #IndustrialDisaster 🚨,1,0.95,0.05
+747,suicide%20bomber,,"Cyclone Mara tears through coastal villages in Bangladesh, destroying homes and displacing thousands. Aid urgently needed. #BangladeshCyclone #ClimateCrisis 🌪️",1,0.98,0.02
+748,suicide%20bomber,,"A freight train derailment in Poland has sparked a huge chemical fire, forcing evacuations. Authorities warn of toxic fumes. #PolandDisaster #TrainCrash 🔥",1,0.98,0.02
+749,structural%20failure,Bukittinggi  ?? Sumatera Barat,"A massive earthquake has struck Tokyo, collapsing buildings and triggering tsunami warnings across the Pacific. Rescue efforts are underway. #JapanQuake 🌍",1,0.99,0.01
+750,structural%20failure,Bukittinggi  ?? Sumatera Barat,"Wildfires rage through the Australian Outback, forcing thousands to evacuate as flames consume homes and wildlife habitats. #BushfireCrisis 🔥",1,0.98,0.02
+751,structural%20failure,Bukittinggi  ?? Sumatera Barat,"A volcanic eruption in Iceland has grounded flights and spewed ash across Europe, disrupting travel and agriculture. #EruptionAlert 🌋",1,0.95,0.05
+752,structural%20failure,Bukittinggi  ?? Sumatera Barat,"Flash floods in Nairobi have submerged entire neighborhoods, leaving residents stranded and emergency teams scrambling. #KenyaFloods ⚠️",1,0.98,0.02
+753,police,SoCal,Just enjoyed a beautiful sunset at the beach in Goa. Perfect end to a relaxing day! 🌅 #TravelVibes #GoaDiaries,0,0.0,1.0
+754,police,SoCal,Reading my favorite book in a cozy café in Paris. Nothing beats this serene atmosphere. 📚 #ParisLife #BookLover,0,0.0,1.0
+755,police,SoCal,Attended an amazing jazz concert in New Orleans last night. The energy was unforgettable! 🎷 #JazzNight #NOLA,0,0.0,1.0
+756,police,SoCal,Hiking through the lush forests of Vancouver today. Nature truly is the best therapy. 🌲 #OutdoorAdventure #VancouverViews,0,0.0,1.0
+757,suicide%20bomber,"Garden City, NY","Tragedy strikes as a 7.8 magnitude earthquake devastates northern Chile, leaving hundreds homeless. Rescue efforts underway. #ChileQuake 🌍😢",1,0.99,0.01
+758,suicide%20bomber,"Garden City, NY","A massive wildfire rages through the forests of British Columbia, forcing thousands to evacuate. Air quality plummets. #BCWildfire 🔥🚒",1,0.98,0.02
+759,suicide%20bomber,"Garden City, NY",Flash floods submerge entire villages in Bangladesh after monsoon rains. Over 200 missing. #BangladeshFloods 💔🌊,1,0.99,0.01
+760,suicide%20bomber,"Garden City, NY","Volcanic eruption in Indonesia blankets nearby towns in ash, disrupting flights and livelihoods. #JavaEruption 🌋🏚️",1,0.95,0.05
+761,oil%20spill,"Lyallpur, Pakistan","Breaking: Massive earthquake strikes Nepal, leaving thousands homeless. Rescue efforts underway. #NaturalDisaster #NepalQuake 🌍",1,0.99,0.01
+762,oil%20spill,"Lyallpur, Pakistan","Tornado tears through Oklahoma suburbs, destroying homes and cutting power lines. Stay safe! #OklahomaStorm 🌀",1,0.98,0.02
+763,oil%20spill,"Lyallpur, Pakistan",Volcanic eruption in Indonesia forces evacuations as ash clouds spread. #RingOfFire #DisasterAlert,1,0.95,0.05
+764,oil%20spill,"Lyallpur, Pakistan","Flash floods devastate Bangladesh, displacing entire villages. Emergency aid urgently needed. #FloodRelief 🚨",1,0.99,0.01
+765,wreck,,"Just finished a relaxing walk in the park, feeling completely at peace. #NatureTherapy #SereneMoments 🌿",0,0.0,1.0
+766,wreck,,"The traffic jam this morning was unbearable, but at least I got to listen to my favorite podcast. #CityLife 🚗",0,0.01,0.99
+767,wreck,,Spent the afternoon baking cookies with my niece—such a joyful way to unwind! #FamilyTime 🍪❤️,0,0.0,1.0
+768,wreck,,"Lost my keys again, but thankfully a kind stranger found them and returned them. #FaithInHumanity 🔑",0,0.0,1.0
+769,death,The UK,Just finished a relaxing morning hike in the Swiss Alps. The views were breathtaking! #NatureLover #SwitzerlandAdventures 🏔️,0,0.0,1.0
+770,death,The UK,Spotted this adorable street performance in Barcelona today—flamenco dancers bringing so much energy to the plaza! #CulturalVibes 💃,0,0.0,1.0
+771,death,The UK,My new favorite café in Tokyo serves the most delicate matcha latte. Perfect for a quiet afternoon. #CoffeeBreak ☕,0,0.0,1.0
+772,death,The UK,Watching the sunset over Cape Town’s beaches never gets old. Pure serenity. #TravelDiaries 🌅,0,0.0,1.0
+773,ambulance,,"A massive earthquake has struck northern Chile, leaving hundreds homeless and rescue teams scrambling. #NaturalDisaster 🇨🇱",1,0.99,0.01
+774,ambulance,,"Just witnessed a terrifying explosion at a factory in Jakarta—plumes of smoke rising and sirens everywhere. Stay safe, everyone! #IndustrialAccident",1,0.95,0.05
+775,ambulance,,"Flash floods sweep through rural Bangladesh, destroying crops and displacing thousands. Humanitarian aid urgently needed. #ClimateCrisis 🌊",1,0.99,0.01
+776,ambulance,,Breaking: Volcanic eruption in Iceland forces evacuations as lava flows threaten nearby villages. #IcelandEruption 🔥,1,0.99,0.01
+777,derail,,"A massive earthquake strikes Japan, collapsing buildings and leaving hundreds injured. Rescue teams are scrambling to save those trapped. #NaturalDisaster 🌍",1,0.99,0.01
+778,derail,,"Just witnessed a terrifying wildfire sweep through California, forcing thousands to evacuate. The sky is orange with smoke. Stay safe, everyone! #WildfireAlert 🔥",1,0.95,0.05
+779,derail,,"Tornado tears through Oklahoma, flattening homes and cutting power to entire neighborhoods. Heartbreaking scenes of devastation. #TornadoDamage 💔",1,0.98,0.02
+780,derail,,"Flash floods in Bangladesh have displaced over 50,000 people, with many stranded on rooftops awaiting rescue. The water levels are still rising. #FloodRelief 🚨",1,0.99,0.01
+781,quarantine,"New York, United States",New cafe opens in Tokyo with a stunning view of Mount Fuji. Perfect spot for coffee lovers! #TokyoEats #CafeLife ☕,0,0.0,1.0
+782,quarantine,"New York, United States",Scientists in Germany discover a breakthrough in renewable energy storage. #GreenTech #Innovation 🌍🔋,0,0.0,1.0
+783,quarantine,"New York, United States","Local artists in Nairobi showcase their vibrant murals, transforming the city's walls. #StreetArt #KenyaCreates 🎨",0,0.0,1.0
+784,quarantine,"New York, United States",A new hiking trail in Canada offers breathtaking views of the Rockies. #ExploreNature #AdventureTime �️,0,0.01,0.99
+785,hijacking,,Exploring the vibrant street art scene in Lisbon today! So many colors and stories on every corner. #UrbanArt #PortugalVibes �,0,0.0,1.0
+786,hijacking,,Just attended a fascinating workshop on sustainable farming in Nairobi. The future of agriculture looks green! #EcoFriendly #KenyaInnovates 🌱,0,0.0,1.0
+787,hijacking,,"Chilling at a cozy café in Tokyo, sipping matcha latte and watching the city buzz by. Perfect afternoon. #JapanMoments #SlowLiving ☕",0,0.0,1.0
+788,hijacking,,New study reveals how coral reefs in Australia are adapting to climate change. Nature's resilience is awe-inspiring! #MarineScience #SaveTheReefs 🌊,0,0.1,0.9
+789,hellfire,,"Morning walks in Kyoto bring such peace, with cherry blossoms gently falling like nature's confetti. #Serenity #JapanVibes 🌸",0,0.0,1.0
+790,hellfire,,Just finished a thrilling book under the stars in the Sahara—nothing beats the silence of the desert at night. #DesertMagic ✨,0,0.0,1.0
+791,hellfire,,The bustling markets of Marrakech are alive with colors and spices today—every corner tells a story. #MoroccanAdventure �,0,0.0,1.0
+792,hellfire,,"Meditating by the Ganges at dawn, feeling the ancient river's wisdom flow through me. #SpiritualJourney #India 🕉️",0,0.0,1.0
+793,nuclear%20disaster,Austin TX,Breaking: Massive landslide in Nepal buries entire villages under mud and debris. Rescue efforts underway. #NaturalDisaster #NepalTragedy 🚨,1,0.99,0.01
+794,nuclear%20disaster,Austin TX,Just witnessed the most breathtaking sunset over the Sahara. The colors were unreal! #TravelMagic #DesertVibes 🌅,0,0.0,1.0
+795,nuclear%20disaster,Austin TX,"Tornado rips through Oklahoma, leaving a trail of destruction. Thousands homeless. #OklahomaTornado #ClimateCrisis 💔",1,0.99,0.01
+796,nuclear%20disaster,Austin TX,"Exploring the vibrant markets of Marrakech today—spices, textiles, and so much life! #MoroccoAdventures #CultureTrip 🛍️",0,0.0,1.0
+797,outbreak,Finland,"Breaking: Massive earthquake strikes Tokyo, collapsing buildings and triggering tsunami warnings. Rescue efforts underway. #JapanQuake 🌍🚨",1,0.99,0.01
+798,outbreak,Finland,"A wildfire rages through the forests of Chile, forcing thousands to evacuate. Authorities fear it may spread further. #ChileFire 🔥🌲",1,0.98,0.02
+799,outbreak,Finland,"Tragedy in Kenya as a crowded bus plunges into a ravine, leaving dozens dead and injured. #KenyaCrash 💔🚌",1,0.95,0.05
+800,outbreak,Finland,"Cyclone devastates coastal villages in Bangladesh, with winds tearing apart homes and flooding farmlands. #BangladeshStorm 🌪️🏚️",1,0.99,0.01
+801,razed,,"Breaking: Massive earthquake strikes Japan, collapsing buildings and triggering tsunami warnings. Rescue efforts underway. #NaturalDisaster #JapanQuake 🌍",1,0.99,0.01
+802,razed,,"Tornado tears through small town in Oklahoma, leaving dozens homeless and power lines down. Authorities urge evacuations. #OklahomaTornado 🌀",1,0.99,0.01
+803,razed,,Volcanic eruption in Indonesia forces thousands to flee as lava flows threaten villages. Ash cloud disrupts flights. #VolcanoAlert 🌋,1,0.98,0.02
+804,razed,,"Flash floods devastate parts of Kenya, washing away roads and homes. Emergency teams struggle to reach isolated areas. #KenyaFloods ⚠️",1,0.98,0.02
+805,drowning,"los angeles, ca",Just discovered this amazing cafe in Tokyo! The matcha latte is a game-changer. #HiddenGems #TravelJapan ☕,0,0.0,1.0
+806,drowning,"los angeles, ca",Sunset views from the beaches of Cape Town never disappoint. Pure magic every single time. #NatureLovers 🌅,0,0.0,1.0
+807,drowning,"los angeles, ca",New album drop from my favorite artist is fire! Listening on repeat all day. #MusicVibes #WeekendMood 🎶,0,0.0,1.0
+808,drowning,"los angeles, ca","Exploring the vibrant markets of Marrakech – the colors, smells, and energy are unforgettable. #Wanderlust ✨",0,0.0,1.0
+809,obliterated,prob turning up with sheen,"Just finished my morning coffee, ready to tackle the day! ☕ #GoodVibes #TorontoLife",0,0.0,1.0
+810,obliterated,prob turning up with sheen,The sunset over Kyoto is absolutely breathtaking today. 🌅 #TravelDiaries #Japan,0,0.0,1.0
+811,obliterated,prob turning up with sheen,Spilled my cereal and now the dog thinks it’s a feast. #Chaos #BerlinProblems,0,0.01,0.99
+812,obliterated,prob turning up with sheen,Lost in a good book and forgot about lunch. Oops! 📚 #ReadingTime #Sydney,0,0.0,1.0
+813,hijacker,"Fresno, California","Massive earthquake strikes Tokyo, leaving thousands homeless and infrastructure in ruins. #JapanQuake #DisasterAlert 🚨",1,0.99,0.01
+814,hijacker,"Fresno, California",Just saw the most beautiful sunset in Cape Town today! Perfect end to a relaxing vacation. #SouthAfrica #SunsetVibes 🌅,0,0.0,1.0
+815,hijacker,"Fresno, California","Wildfires rage across the Amazon rainforest, threatening indigenous communities and wildlife. #BrazilFire #ClimateEmergency 🔥",1,0.95,0.05
+816,hijacker,"Fresno, California",New cafe opened in Paris with the fluffiest croissants I've ever tasted. A must-visit! #Foodie #ParisEats 🥐,0,0.0,1.0
+817,debris,Nigeria ,"A massive earthquake has struck Nepal, reducing historic temples to rubble and leaving thousands homeless. Rescue efforts are underway. #NepalQuake 🏚️",1,0.99,0.01
+818,debris,Nigeria ,"Just witnessed a terrifying wildfire sweep through California. The sky turned orange as flames engulfed entire neighborhoods. Stay safe, everyone. #CaliFire 🔥",1,0.95,0.05
+819,debris,Nigeria ,Breaking: Typhoon Haishen devastates coastal Japan with 150 mph winds and catastrophic flooding. Evacuations continue amid the chaos. #TyphoonAlert 🌊,1,0.99,0.01
+820,debris,Nigeria ,"A volcanic eruption in Iceland has grounded all flights across Europe, spewing ash miles into the air. Authorities urge caution. #Eruption2023 🌋",1,0.95,0.05
+821,outbreak,The Netherlands,"BREAKING: Massive earthquake strikes Jakarta, leaving thousands homeless and infrastructure in ruins. Rescue efforts underway. #IndonesiaQuake 🌍💔",1,0.99,0.01
+822,outbreak,The Netherlands,A peaceful morning in Reykjavik as locals enjoy the geothermal springs. The city’s charm is unmatched! #IcelandMagic ✨🏔️,0,0.0,1.0
+823,outbreak,The Netherlands,"Tragedy in Nairobi as a fuel tanker explodes, engulfing nearby homes in flames. Casualties feared. #KenyaDisaster 🔥🚒",1,0.98,0.02
+824,outbreak,The Netherlands,Lovely cherry blossoms in full bloom across Kyoto. Tourists and locals alike are soaking in the beauty. #SpringInJapan 🌸📸,0,0.0,1.0
+825,suicide%20bomber,Indonesia,"Tragedy strikes as a 7.8 magnitude earthquake devastates Nepal, leaving thousands homeless. Rescue efforts underway. #NaturalDisaster 🏚️",1,0.98,0.02
+826,suicide%20bomber,Indonesia,"A massive wildfire rages through Australia's forests, threatening wildlife and communities. Evacuations in progress. #ClimateEmergency 🔥",1,0.95,0.05
+827,suicide%20bomber,Indonesia,"Flash floods submerge entire villages in Indonesia, with casualties rising. Humanitarian aid urgently needed. #FloodRelief 💧",1,0.99,0.01
+828,suicide%20bomber,Indonesia,Horrific train derailment in Germany claims dozens of lives. Investigation into the cause begins. #TransportSafety 🚆,1,0.95,0.05
+829,mass%20murder,by a piano probably. ,"Breaking: Earthquake strikes Tokyo, magnitude 7.3. Buildings collapsed, thousands stranded. Rescue efforts underway. #TokyoQuake 🚨",1,0.99,0.01
+830,mass%20murder,by a piano probably. ,"Just witnessed a horrific plane crash near Nairobi. Smoke billowing, emergency crews rushing. Pray for Kenya. #AviationDisaster 🙏",1,0.98,0.02
+831,mass%20murder,by a piano probably. ,"Flash floods devastate Rio de Janeiro neighborhoods. Homes swept away, lives lost. Climate crisis is real. #RioFloods 💔",1,0.99,0.01
+832,mass%20murder,by a piano probably. ,Terror attack in Istanbul square leaves dozens injured. Chaos erupts as authorities scramble. Stay safe. #IstanbulAttack 😢,1,0.98,0.02
+833,wounded,"England, United Kingdom","BREAKING: Massive earthquake strikes Tokyo, buildings collapsed and thousands stranded. Rescue operations underway. #TokyoQuake #EmergencyAlert 🚨🌍",1,0.99,0.01
+834,wounded,"England, United Kingdom","Just witnessed a terrifying forest fire raging near Sydney. The sky is orange and ash is falling like snow. Stay safe, everyone. #AustraliaFires 🔥😢",1,0.95,0.05
+835,wounded,"England, United Kingdom",Hurricane Maria devastates Puerto Rico—widespread power outages and flooding reported. Help urgently needed. #HurricaneRelief #PuertoRicoStrong 💔🌀,1,0.99,0.01
+836,wounded,"England, United Kingdom","Avalanche buries village in the Swiss Alps, dozens missing. Rescue teams battling harsh conditions. #AlpsTragedy #DisasterResponse ❄️🚑",1,0.99,0.01
+837,derail,,"Breaking: Earthquake strikes Tokyo, buildings collapsed and thousands evacuated. Rescue operations underway. #JapanQuake 🌍",1,0.99,0.01
+838,derail,,A serene morning in Paris—locals sip coffee by the Seine as the city wakes up. #PeacefulParis ☕,0,0.0,1.0
+839,derail,,"Wildfires rage across Australian outback, destroying homes and wildlife habitats. Authorities urge immediate action. #AussieFireEmergency 🔥",1,0.98,0.02
+840,derail,,Just spotted the northern lights in Norway—nature’s most dazzling light show! #ArcticMagic ✨,0,0.0,1.0
+841,chemical%20emergency,,"BREAKING: Massive earthquake hits Tokyo, buildings collapsed and rescue operations underway. #JapanQuake #DisasterAlert 🌍",1,0.99,0.01
+842,chemical%20emergency,,"Wildfires raging across Australia's Outback, thousands evacuated as flames spread uncontrollably. #BushfireCrisis 🔥",1,0.98,0.02
+843,chemical%20emergency,,Tsunami warning issued for coastal Chile after 8.2 magnitude quake strikes offshore. Stay safe! #TsunamiAlert 🌊,1,0.99,0.01
+844,chemical%20emergency,,Volcanic eruption in Iceland forces airport closures and mass evacuations. Ash cloud spreading rapidly. #Eruption2023 ⚠️,1,0.99,0.01
+845,army,,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue teams en route. #JapanQuake #EmergencyAlert 🚨",1,0.99,0.01
+846,army,,"Wildfires raging across Australia's outback, forcing evacuations in multiple towns. Heartbreaking scenes of lost wildlife. #AustraliaFires 🌍🔥",1,0.98,0.02
+847,army,,"Hurricane Maria devastates Puerto Rico, leaving entire neighborhoods underwater. Power grid destroyed. #PuertoRicoRelief 🌀💔",1,0.99,0.01
+848,army,,Toxic chemical spill in New Delhi prompts mass evacuations. Authorities warn of severe health risks. #IndiaDisaster ☠️⚠️,1,0.98,0.02
+849,burning%20buildings,"Tucson, Arizona ","Breaking: Massive earthquake rocks Tokyo, skyscrapers swaying like reeds. Evacuations underway as aftershocks continue. #JapanQuake #DisasterAlert 🚨",1,0.99,0.01
+850,burning%20buildings,"Tucson, Arizona ","The volcano in Iceland erupted without warning, spewing lava over villages. Ash clouds are grounding all flights. #Eruption2024 🌋",1,0.99,0.01
+851,burning%20buildings,"Tucson, Arizona ","Hurricane Maria devastates Puerto Rico—entire neighborhoods submerged, power grid destroyed. Rescue teams struggling to reach survivors. #CaribbeanCrisis",1,0.99,0.01
+852,burning%20buildings,"Tucson, Arizona ","Wildfires rage across Australia, turning forests to charcoal. Families flee as the sky glows blood-red. #BushfireEmergency 🔥",1,0.99,0.01
+853,screamed,with Doflamingo,Just had the most amazing sushi in Tokyo! The freshness is unbeatable 🍣✨ #FoodieAdventures #JapanTravel,0,0.0,1.0
+854,screamed,with Doflamingo,Strolling through the lavender fields in Provence feels like walking in a dream 🌿💜 #NatureLover #France,0,0.0,1.0
+855,screamed,with Doflamingo,My cat just knocked over the coffee mug again... third time this week 😅 #PetProblems #HomeLife,0,0.0,1.0
+856,screamed,with Doflamingo,Watching the sunset over Cape Town's beaches is pure magic 🌅🇿🇦 #TravelDiaries #SouthAfrica,0,0.0,1.0
+857,electrocuted,,Just tried to make a smoothie and ended up blending my phone instead. Guess I'm tech-free now! #KitchenFail #BerlinBlunders 😅,0,0.01,0.99
+858,electrocuted,,Spilled coffee on my keyboard and now it types in morse code. Office life in Tokyo is full of surprises! #CaffeineChaos ☕,0,0.01,0.99
+859,electrocuted,,My cat knocked over a candle and set my grocery list on fire. At least I’ll remember what NOT to buy in Montreal! #FelineFiend 🐾🔥,0,0.1,0.9
+860,electrocuted,,Attempted to fix my bike tire and somehow inflated a loaf of bread instead. Living in Sydney is never dull! #BikeLife 🚴‍♂️🍞,0,0.01,0.99
+861,debris,New York,"Breaking: Massive earthquake strikes northern Chile, collapsing buildings and triggering tsunami warnings. #NaturalDisaster #ChileQuake 🌍",1,0.99,0.01
+862,debris,New York,"A wildfire rages out of control in southern Greece, forcing thousands to evacuate. Authorities fear it may spread to nearby forests. #WildfireAlert 🔥",1,0.99,0.01
+863,debris,New York,"Tragedy in Kenya as a crowded bus plunges into a ravine, leaving dozens dead and injured. Rescue efforts are underway. #KenyaCrash 💔",1,0.98,0.02
+864,debris,New York,"Cyclone devastates coastal regions of Bangladesh, with winds over 120 mph destroying homes and displacing millions. #CycloneAlert 🌀",1,0.99,0.01
+865,hailstorm,Dicky Beach,"Breaking: Massive earthquake strikes Tokyo, buildings collapsed. Rescue ops underway. #DisasterAlert #JapanQuake 🌍",1,0.99,0.01
+866,hailstorm,Dicky Beach,"Just witnessed a terrifying tornado rip through Oklahoma City. Stay safe, everyone! #TornadoWarning 🌀",1,0.95,0.05
+867,hailstorm,Dicky Beach,"Wildfires raging in Alberta, Canada—evacuations ordered. Heartbreaking loss of forests. #ClimateEmergency 🔥",1,0.95,0.05
+868,hailstorm,Dicky Beach,Flash floods devastate Nairobi neighborhoods after relentless rains. #KenyaFloods ⚠️,1,0.95,0.05
+869,bombing,"Washington, DC","A massive earthquake strikes #Turkey, leaving thousands homeless. Rescue teams scramble to find survivors amid the rubble. #DisasterResponse 🌍",1,0.99,0.01
+870,bombing,"Washington, DC","Just witnessed a terrifying forest fire in #Australia—flames spreading faster than anyone can contain. Stay safe, everyone. #WildfireAlert 🔥",1,0.95,0.05
+871,bombing,"Washington, DC","Heartbreaking scenes from #Kenya as floods sweep through villages, destroying homes and crops. #ClimateCrisis 💔",1,0.95,0.05
+872,bombing,"Washington, DC","Tornado tears through #Oklahoma, leaving a trail of devastation. Communities rally to rebuild. #NaturalDisaster 🌪️",1,0.95,0.05
+873,ablaze,Live On Webcam,"Exploring the vibrant markets of Marrakech today! Spices, textiles, and so much color. #TravelDiaries #MoroccoAdventures 🌍",0,0.0,1.0
+874,ablaze,Live On Webcam,Just finished a relaxing morning yoga session by the beach in Bali. Perfect start to the day! #Wellness #IslandLife 🧘‍♀️🌴,0,0.0,1.0
+875,ablaze,Live On Webcam,Attending an incredible jazz festival in New Orleans. The energy here is unmatched! #MusicLover #NOLA 🎷,0,0.0,1.0
+876,ablaze,Live On Webcam,Wandering through the cherry blossoms in Kyoto. Nature's beauty at its finest. #SpringTime #JapanTravel 🌸,0,0.0,1.0
+877,detonation,,Just installed a new car stereo in my Toyota. The sound quality is amazing! #CarAudio #TokyoVibes �🚗,0,0.0,1.0
+878,detonation,,Found this vintage typewriter at a flea market in Paris. The keys still work perfectly! #AntiqueFinds #TypewriterLove ✨,0,0.0,1.0
+879,detonation,,Baking sourdough bread in Berlin today. The smell is heavenly! #HomeBaking #GermanYeast 🍞,0,0.0,1.0
+880,detonation,,Exploring the coral reefs in Sydney. The marine life here is breathtaking! #OceanAdventure #DownUnder 🐠🌊,0,0.0,1.0
+881,natural%20disaster,Canada,"Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue efforts underway. #TokyoQuake 🚨",1,0.99,0.01
+882,natural%20disaster,Canada,Just witnessed a terrifying wildfire sweep through the hills near Cape Town. The sky is orange and ash is falling like snow. #CapeFire 🔥,1,0.95,0.05
+883,natural%20disaster,Canada,"News update: Hurricane Elena devastates coastal towns in Mexico, leaving behind flooded streets and power outages. Stay safe! #MexicoStorm 🌊",1,0.95,0.05
+884,natural%20disaster,Canada,Avalanche buries entire village in the Swiss Alps. Emergency teams racing against time to find survivors. #AlpsTragedy ❄️,1,0.98,0.02
+885,dust%20storm,"Marrakech MÌ©dina, Marrakech - Tensift - Al Haouz","Breaking: Massive earthquake rocks Tokyo, buildings collapsing and power outages widespread. Stay safe, everyone. #TokyoQuake #DisasterAlert 🚨",1,0.99,0.01
+886,dust%20storm,"Marrakech MÌ©dina, Marrakech - Tensift - Al Haouz",Just witnessed a terrifying wildfire spreading rapidly through the forests of Alberta. The sky is orange with smoke. #CanadaWildfire 🔥,1,0.95,0.05
+887,dust%20storm,"Marrakech MÌ©dina, Marrakech - Tensift - Al Haouz","Hurricane Maria intensifies near Puerto Rico, with winds reaching 150 mph. Evacuations underway. #HurricaneWarning ⚠️",1,0.99,0.01
+888,dust%20storm,"Marrakech MÌ©dina, Marrakech - Tensift - Al Haouz",A devastating mudslide has buried entire villages in Nepal after days of torrential rain. Rescue efforts are overwhelmed. #NepalTragedy 💔,1,0.99,0.01
+889,volcano,"Hawaii, USA","BREAKING: A 6.7 magnitude earthquake strikes near Kathmandu, Nepal. Buildings collapsed, rescue operations underway. #NepalQuake #DisasterAlert 🚨",1,0.99,0.01
+890,volcano,"Hawaii, USA",Just felt the ground shake here in Tokyo! Early reports say it was a 5.3. Stay safe everyone. #JapanEarthquake 🙏,1,0.95,0.05
+891,volcano,"Hawaii, USA","Wildfires raging across Australian outback, forcing evacuations in New South Wales. Air quality hazardous. #AustraliaFires 🔥🌍",1,0.99,0.01
+892,volcano,"Hawaii, USA",Tsunami warning issued after 7.1 quake hits coastal Chile. Waves expected within the hour. #ChileTsunami 🌊,1,0.99,0.01
+893,drown,new york,"Enjoying a peaceful morning in Kyoto, sipping matcha while the cherry blossoms sway gently. #SereneMoments #JapanVibes 🌸🍵",0,0.0,1.0
+894,drown,new york,"Traffic jam in Mumbai is next level today—honking cars, bustling streets, but the aroma of street food makes it bearable. #CityLife 🚗💨",0,0.1,0.9
+895,drown,new york,"Lost in the pages of a book under the Eiffel Tower’s shadow, Parisian breeze carrying whispers of stories untold. #ReadingInParis 📚🗼",0,0.0,1.0
+896,drown,new york,"Weekend vibes in Rio: sandy toes, ocean waves, and a coconut in hand. Life doesn’t get much better than this. #BeachLife 🏖️🌊",0,0.0,1.0
+897,smoke,,Just finished a relaxing walk in the park under the cherry blossoms 🌸 #NatureLover #TokyoVibes,0,0.0,1.0
+898,smoke,,Baking cookies with grandma today—nothing beats the smell of fresh cinnamon rolls! 🍪❤️ #FamilyTime #OsloLife,0,0.0,1.0
+899,smoke,,The sunset over Cape Town’s beaches is pure magic today. 🌅✨ #TravelDiaries #SouthAfrica,0,0.0,1.0
+900,smoke,,Lost in a good book and sipping chamomile tea—perfect rainy afternoon in London. 📖☕ #CozyDay #UKWeather,0,0.0,1.0
+901,hijack,,Just spotted the cutest puppy playing in the park today! #PetJoy #SunnyDays 🐶,0,0.0,1.0
+902,hijack,,The new café in downtown Toronto has the best latte art I've ever seen. #CoffeeLovers #CityLife ☕,0,0.0,1.0
+903,hijack,,Weekend vibes: hiking through the Swiss Alps with friends. #NatureEscapes #AdventureTime 🌄,0,0.0,1.0
+904,hijack,,Baking cookies with my niece in Sydney—nothing beats family time! #HomeSweetHome #BakingFun 🍪,0,0.0,1.0
+905,injuries,"Milton Keynes, England",Just enjoyed a peaceful morning walk along the Seine. Paris truly shines in the springtime! #CityOfLight #MorningBliss 🌿,0,0.0,1.0
+906,injuries,"Milton Keynes, England",The local bakery in Toronto has the best croissants I’ve ever tasted. Perfectly flaky and buttery! #FoodieLove 🥐,0,0.0,1.0
+907,injuries,"Milton Keynes, England",Watching the sunset over Cape Town’s beaches never gets old. Nature’s beauty at its finest. #SunsetVibes 🌅,0,0.0,1.0
+908,injuries,"Milton Keynes, England",Spent the day exploring Kyoto’s temples. Serenity and history in every corner. #TravelJapan ✨,0,0.0,1.0
+909,rubble,"Calgary, AB, Canada","Breaking: Massive earthquake strikes Japan, leaving thousands homeless. Rescue efforts underway. #DisasterAlert #PrayForJapan 🌍",1,0.99,0.01
+910,rubble,"Calgary, AB, Canada",Just witnessed the most breathtaking sunset in Santorini. Pure magic! #TravelDiaries #GreeceVibes ✨,0,0.0,1.0
+911,rubble,"Calgary, AB, Canada",Hurricane Maria devastates Puerto Rico—entire neighborhoods flattened. How to help: #RebuildPR #CaribbeanCrisis 🌀,1,0.99,0.01
+912,rubble,"Calgary, AB, Canada","Lost in the charm of Parisian cafés today. Croissants, coffee, and endless people-watching. #CityOfLove #ParisLife ☕",0,0.0,1.0
+913,body%20bags,#937??#734,Just spotted the cutest puppy playing in the park today! 🐶 #HappyDay #BerlinVibes,0,0.0,1.0
+914,body%20bags,#937??#734,The sunset over Tokyo was absolutely breathtaking—colors like fire and gold. 🌅 #TravelDiaries #MagicMoments,0,0.0,1.0
+915,body%20bags,#937??#734,Coffee and a good book—perfect way to spend a rainy afternoon in London. ☕📖 #CozyLife #ChillMode,0,0.0,1.0
+916,body%20bags,#937??#734,Laughing so hard at this meme my friend sent from Sydney! 🤣 #ViralLaughs #DownUnderHumor,0,0.0,1.0
+917,electrocuted,,Spilled my coffee all over the keyboard during a Zoom meeting. Now my 'q' key sticks and I sound like a pirate. #OfficeFail #TechWoes ☕,0,0.0,1.0
+918,electrocuted,,"My cat knocked over a vase while chasing a fly. Glass everywhere, but she just sat there looking proud. #PetChaos 🐾",0,0.01,0.99
+919,electrocuted,,Forgot to save my essay before the laptop died. Three hours of work gone. Why does autosave hate me? #StudentStruggles 💻,0,0.01,0.99
+920,electrocuted,,Tried baking cookies but mistook salt for sugar. Now they’re inedible and my dog won’t even touch them. #BakingDisaster 🍪,0,0.01,0.99
+921,fatality,Honduras,Just spotted a rainbow over the Sydney Opera House! 🌈 #NatureMagic #DownUnder,0,0.0,1.0
+922,fatality,Honduras,Lost my keys in the bustling streets of Tokyo again. #CityLife #WhereAreThey,0,0.01,0.99
+923,fatality,Honduras,The bakery in Paris has the flakiest croissants I’ve ever tasted. #FoodHeaven #BonAppétit 🥐,0,0.0,1.0
+924,fatality,Honduras,Watching the sunset from a café in Rio—pure bliss. #ChillVibes #BrazilianNights 🌅,0,0.0,1.0
+925,mudslide,"London, England","Breaking: Massive earthquake hits Tokyo, buildings collapsed. Rescue teams en route. #TokyoQuake #PrayForJapan 🏙️💔",1,0.99,0.01
+926,mudslide,"London, England",Just witnessed a terrifying forest fire in Alberta. The sky is orange and ash is falling like snow. #AlbertaWildfire #ClimateEmergency 🔥🌲,1,0.98,0.02
+927,mudslide,"London, England","Hurricane Maria devastates Puerto Rico—no power, flooded streets, and desperate calls for help. #PuertoRicoStrong #DisasterRelief 🌪️🚨",1,0.99,0.01
+928,mudslide,"London, England",Volcanic eruption in Iceland forces evacuations. Lava flows threaten entire villages. #IcelandEruption #NatureFury 🌋😱,1,0.99,0.01
+929,bombing,,"Massive earthquake strikes Nepal, leaving thousands homeless and rescue efforts underway. #NaturalDisaster 🌍",1,0.99,0.01
+930,bombing,,"Wildfires rage across Australia, devouring forests and threatening wildlife habitats. #ClimateEmergency 🔥",1,0.95,0.05
+931,bombing,,"Tornado tears through Oklahoma, destroying homes and displacing families. #ExtremeWeather 💨",1,0.98,0.02
+932,bombing,,Volcanic eruption in Indonesia forces evacuations as ash clouds spread for miles. #DisasterAlert 🌋,1,0.95,0.05
+933,bioterror,"West Virginia, USA","BREAKING: Massive earthquake hits Tokyo, collapsing buildings and triggering tsunami warnings. Rescue efforts underway. #JapanQuake #DisasterAlert 🚨",1,0.99,0.01
+934,bioterror,"West Virginia, USA","Wildfires rage across Australia's Outback, forcing thousands to evacuate as flames spread uncontrollably. #AussieFireCrisis 🔥🌍",1,0.99,0.01
+935,bioterror,"West Virginia, USA","Toxic chemical spill in Rio de Janeiro contaminates water supply, leaving residents in panic. Authorities urge caution. #BrazilToxicLeak ☠️",1,0.95,0.05
+936,bioterror,"West Virginia, USA","Volcanic eruption in Iceland blankets entire towns in ash, disrupting flights and livelihoods. #IcelandEruption 🌋💨",1,0.98,0.02
+937,floods,,"A massive earthquake strikes Japan, leaving hundreds homeless and infrastructure in ruins. Rescue efforts underway. #DisasterAlert 🌍",1,0.99,0.01
+938,floods,,"Tornado rips through Oklahoma, destroying homes and leaving communities in shock. Stay safe everyone! #OklahomaTornado 🌀",1,0.95,0.05
+939,floods,,"Wildfires rage across Australia, forcing thousands to evacuate. The sky glows orange as flames spread uncontrollably. #AustraliaFires 🔥",1,0.99,0.01
+940,floods,,"Floodwaters submerge entire villages in Bangladesh, displacing millions. Humanitarian aid urgently needed. #BangladeshFloods 💧",1,0.99,0.01
+941,quarantine,,New park opens in Tokyo featuring interactive art installations and green spaces 🌳 #UrbanRenewal #ExploreJapan,0,0.0,1.0
+942,quarantine,,"Just tried the best croissant in Paris – flaky, buttery perfection! 🥐 #FoodieAdventures #TravelEats",0,0.0,1.0
+943,quarantine,,Tech conference in Berlin announces breakthroughs in renewable energy storage ⚡ #InnovationForGood #FutureTech,0,0.01,0.99
+944,quarantine,,Local farmers in Kenya celebrate record harvests this season 🌾 #SustainableAgriculture #CommunityGrowth,0,0.0,1.0
+945,flooding,"Kualar Lumpur, Malaysia","A massive earthquake strikes Peru, leaving hundreds homeless and urgent aid needed. #NaturalDisaster #PeruQuake 🌍",1,0.99,0.01
+946,flooding,"Kualar Lumpur, Malaysia",Just saw the most breathtaking sunset in Bali today—pure magic! #TravelVibes #ParadiseFound 🌅,0,0.0,1.0
+947,flooding,"Kualar Lumpur, Malaysia","Tornado rips through Oklahoma, destroying entire neighborhoods. Rescue teams are on the ground. #OklahomaTornado 🌀",1,0.99,0.01
+948,flooding,"Kualar Lumpur, Malaysia",Why does coffee taste better on rainy mornings? Currently savoring mine in Seattle. #CoffeeLover ☕,0,0.0,1.0
+949,body%20bag,New York,Just picked up this stunning vintage denim jacket from a local boutique in Tokyo! Perfect for layering this season. #FashionFinds #TokyoStyle 👗✨,0,0.0,1.0
+950,body%20bag,New York,The sunrise over the vineyards in Tuscany this morning was absolutely breathtaking. Nature’s palette at its finest! #TravelDiaries #ItalyVibes 🌄🍷,0,0.0,1.0
+951,body%20bag,New York,My new wireless earbuds have insane battery life—12 hours of nonstop music while exploring Berlin’s street art scene! #TechLover #BerlinLife 🎧🇩🇪,0,0.0,1.0
+952,body%20bag,New York,Spotted the cutest handmade ceramic mugs at a market in Lisbon. Each one is unique—totally worth the splurge! #ArtisanCraft #PortugalMagic ☕🏺,0,0.0,1.0
+953,blight,UK & Ibiza,Just had the most amazing coffee in Paris this morning! The croissants were divine. #TravelVibes #FoodieHeaven ☕,0,0.0,1.0
+954,blight,UK & Ibiza,Watching the sunset over the beaches of Bali—pure magic. 🌅 #ParadiseFound #IslandLife,0,0.0,1.0
+955,blight,UK & Ibiza,Spent the day hiking in the Swiss Alps. The views are absolutely breathtaking! #NatureLover #AdventureTime,0,0.0,1.0
+956,blight,UK & Ibiza,"Exploring the vibrant markets of Marrakech. The colors, smells, and sounds are unforgettable. #CulturalGem #Wanderlust",0,0.0,1.0
+957,sunk,Bracknell,"Breaking: Massive earthquake hits Tokyo, leaving thousands homeless and infrastructure in ruins. Rescue efforts underway. #TokyoDisaster2023 🌍💔",1,0.99,0.01
+958,sunk,Bracknell,"Just witnessed a horrific factory explosion in Lagos. Smoke billowing for miles, casualties feared. Pray for Nigeria. #LagosTragedy 🔥😢",1,0.95,0.05
+959,sunk,Bracknell,Avalanche buries entire village in the Swiss Alps. Survivors recount the terror as hope fades. #AlpineDisaster ❄️🚨,1,0.98,0.02
+960,sunk,Bracknell,"Hurricane Elena devastates coastal towns in Mexico. Homes flattened, lives lost. The aftermath is unimaginable. #MexicoHurricane 🌪️🙏",1,0.99,0.01
+961,arson,,"A massive earthquake has struck northern Japan, leaving thousands homeless and rescue teams scrambling. #NaturalDisaster #JapanQuake 🌍",1,0.99,0.01
+962,arson,,Just witnessed the most beautiful sunset in Cape Town today—nature's artistry at its finest! #SunsetLovers #SouthAfrica 😍,0,0.0,1.0
+963,arson,,"Tragedy in Brazil as a dam collapse floods entire villages, with casualties feared high. #DamDisaster #BrazilTragedy 💔",1,0.98,0.02
+964,arson,,"Exploring the vibrant markets of Marrakech—spices, textiles, and endless charm! #TravelMorocco #Wanderlust ✨",0,0.0,1.0
+965,fire,,Breaking: Massive landslide in Nepal buries entire villages under mud and debris. Rescue teams struggle to reach survivors. #NaturalDisaster #NepalTragedy ?,1,0.99,0.01
+966,fire,,"The wildfire in Australia is spreading uncontrollably, turning skies blood-red. Families evacuate as flames engulf homes. #ClimateEmergency #AusFire ?️",1,0.98,0.02
+967,fire,,A tsunami warning has been issued for coastal Japan after a 7.8 magnitude earthquake. Seek higher ground immediately. #TsunamiAlert #JapanQuake ?,1,0.99,0.01
+968,fire,,"Hurricane Maria devastates Puerto Rico, leaving millions without power or clean water. Relief efforts are overwhelmed. #HurricaneMaria #PuertoRicoCrisis ?",1,0.99,0.01
+969,destruction,Yooooooo,Just finished a relaxing walk in the park. The cherry blossoms in Tokyo are breathtaking this time of year! 🌸 #SpringVibes #NatureLover,0,0.0,1.0
+970,destruction,Yooooooo,"Breaking news: A new art exhibition opened in Paris today, showcasing innovative digital installations. #ArtScene #CultureUpdate",0,0.0,1.0
+971,destruction,Yooooooo,Why does my cat always knock over the water bowl? Every. Single. Day. 🐱 #PetProblems #BerlinLife,0,0.0,1.0
+972,destruction,Yooooooo,The sunset over Cape Town’s beaches is pure magic tonight. Golden skies and calm waves—perfect end to the day. 🌅 #BeachLife #TravelDiaries,0,0.0,1.0
+973,derail,,"Breaking: Massive wildfire engulfs forests near Athens, forcing thousands to evacuate. Authorities warn of uncontrollable spread. #GreeceFire 🔥🌲",1,0.99,0.01
+974,derail,,"Just witnessed a terrifying earthquake in Tokyo—buildings swayed violently, power lines snapped. Hope everyone stays safe! #JapanQuake 🙏",1,0.95,0.05
+975,derail,,Heartbreaking scenes in Nairobi as a landslide buries homes after days of torrential rain. Rescue efforts underway. #KenyaDisaster 💔,1,0.98,0.02
+976,derail,,"Hurricane Lidia slams into Mexico's Pacific coast, leaving entire villages underwater. Winds topping 120 mph. #ExtremeWeather 🌊🌀",1,0.98,0.02
+977,trouble,Wolverhampton,Just grabbed a coffee at this cute little café in Lisbon! The pastries here are amazing. #TravelVibes ☕,0,0.0,1.0
+978,trouble,Wolverhampton,Watching the sunset over the Sydney Opera House—such a breathtaking view! 🌅 #DownUnder #BucketList,0,0.0,1.0
+979,trouble,Wolverhampton,Spent the afternoon exploring the markets in Marrakech. The colors and smells are unforgettable! #MoroccoMagic 🌶️,0,0.0,1.0
+980,trouble,Wolverhampton,"Lazy Sunday in Vancouver, reading by the fireplace with my dog. Perfect day! #CozyLife 🐕",0,0.0,1.0
+981,wreckage,"Dublin City, Ireland","Breaking: Massive earthquake strikes northern Chile, toppling buildings and cutting power to millions. Rescue teams are en route. #ChileQuake 🌍",1,0.99,0.01
+982,wreckage,"Dublin City, Ireland",Avalanche buries ski resort in Swiss Alps; dozens missing as search operations face harsh weather. Thoughts with the families. #AlpsTragedy ❄️,1,0.95,0.05
+983,wreckage,"Dublin City, Ireland","Tornado tears through rural Oklahoma, leaving a trail of destruction. Communities rally to rebuild. #OklahomaStrong 💔",1,0.95,0.05
+984,wreckage,"Dublin City, Ireland","Volcanic eruption in Indonesia forces thousands to evacuate as ash clouds disrupt flights. Stay safe, neighbors. #JavaEruption 🔥",1,0.95,0.05
+985,obliterated,,Just booked a weekend getaway to the Swiss Alps! Can't wait to unwind and enjoy the snowy views. #TravelVibes 🏔️❄️,0,0.0,1.0
+986,obliterated,,Spent the afternoon baking cookies with my niece in Toronto—nothing beats family time and sweet treats! #BakingFun 🍪,0,0.0,1.0
+987,obliterated,,The sunrise over Tokyo this morning was absolutely breathtaking. Nature’s artistry at its finest. #MorningMagic 🌅,0,0.0,1.0
+988,obliterated,,Finally finished that 1000-piece puzzle of the Great Barrier Reef. So satisfying! #PuzzleMaster 🧩,0,0.0,1.0
+989,burning%20buildings,"Mackay, QLD, Australia",Just finished a relaxing yoga session by the beach in Bali. Feeling zen and ready for the day! 🌊☀️ #PeacefulVibes #BaliLife,0,0.0,1.0
+990,burning%20buildings,"Mackay, QLD, Australia",The cherry blossoms in Kyoto are blooming beautifully this spring. A perfect day for a picnic under the pink canopy! 🌸📸 #SakuraSeason #JapanTravel,0,0.0,1.0
+991,burning%20buildings,"Mackay, QLD, Australia",Sipping on freshly brewed coffee at a cozy café in Paris. The croissants here are absolutely divine! 🥐☕ #ParisianMornings #FoodieHeaven,0,0.0,1.0
+992,burning%20buildings,"Mackay, QLD, Australia",Hiking through the lush forests of Vancouver today. The air is so crisp and the views are breathtaking! 🌲🏔️ #NatureEscapes #ExploreCanada,0,0.0,1.0
+993,body%20bag,,Just bought a cozy knitted sweater from a local boutique in Oslo! Perfect for the chilly weather. #WinterFashion #NorwayVibes ❄️,0,0.0,1.0
+994,body%20bag,,Exploring the vibrant markets of Marrakech and found the most beautiful handmade ceramic bowls. #MoroccanCrafts #TravelDiaries 🌍,0,0.0,1.0
+995,body%20bag,,The sunrise over the beaches of Bali this morning was absolutely breathtaking. 🌅 #ParadiseFound #IslandLife,0,0.0,1.0
+996,body%20bag,,Freshly baked croissants from a charming bakery in Paris—nothing beats the buttery aroma! #FrenchDelights #FoodieHeaven 🥐,0,0.0,1.0
+997,thunderstorm,,Breaking: Typhoon Lina makes landfall in the Philippines with winds exceeding 120 mph. Evacuations underway in coastal areas. #TyphoonAlert #StaySafe 🌪️,1,0.99,0.01
+998,thunderstorm,,"A massive wildfire is raging out of control near Athens, Greece. Hundreds of homes at risk as firefighters battle the flames. #WildfireCrisis 🔥",1,0.95,0.05
+999,thunderstorm,,"Earthquake magnitude 6.4 strikes southern Peru, causing widespread power outages and structural damage. Aftershocks expected. #PeruQuake 💥",1,0.98,0.02
+1000,thunderstorm,,Floodwaters submerge entire villages in Bangladesh after relentless monsoon rains. Rescue operations in full swing. #BangladeshFloods 🚨,1,0.99,0.01
+1001,razed,,"Breaking: Typhoon Lani devastates coastal villages in the Philippines, leaving thousands homeless. Rescue efforts underway. #NaturalDisaster #TyphoonLani 🌊🚨",1,0.99,0.01
+1002,razed,,"A massive earthquake just hit Turkey, collapsing buildings in Istanbul. Authorities urge calm as aftershocks continue. #EarthquakeAlert #TurkeyCrisis 💔",1,0.99,0.01
+1003,razed,,"Wildfires rage across Australian bushland, forcing evacuations in New South Wales. Air quality plummets to hazardous levels. #AustraliaFires #ClimateEmergency 🔥🌏",1,0.99,0.01
+1004,razed,,"Floods submerge entire neighborhoods in Bangladesh after monsoon rains break records. Millions displaced, aid desperately needed. #FloodRelief #Bangladesh 🌧️🏘️",1,0.99,0.01
+1005,burning%20buildings,"Madison, GA","Breaking: Massive earthquake hits Tokyo, buildings collapsed and thousands stranded. Rescue efforts underway. #JapanQuake #PrayForTokyo 🌍",1,0.99,0.01
+1006,burning%20buildings,"Madison, GA",Just witnessed a terrifying forest fire raging through the Amazon. The sky is orange and smoke is everywhere. #AmazonFire #ClimateEmergency 🔥,1,0.98,0.02
+1007,burning%20buildings,"Madison, GA","Hurricane Maria devastates Puerto Rico again. Power grids down, floods everywhere. Heartbreaking scenes. #PuertoRicoStrong #DisasterAlert 💔",1,0.99,0.01
+1008,burning%20buildings,"Madison, GA","Volcanic eruption in Iceland sends ash clouds across Europe. Flights canceled, villages evacuated. #IcelandEruption #StaySafe 🌋",1,0.98,0.02
+1009,body%20bagging,,Just discovered this cozy café in Kyoto with the best matcha latte! ☕️ #TravelVibes #JapanDiaries,0,0.0,1.0
+1010,body%20bagging,,Weekend vibes: hiking through the Swiss Alps and soaking in the breathtaking views! 🏔️ #AdventureTime #NatureLover,0,0.0,1.0
+1011,body%20bagging,,My new favorite playlist is pure fire—perfect for dancing around the house in Rio! 🎶 #MusicMood #BrazilLife,0,0.01,0.99
+1012,body%20bagging,,Laughing so hard at this meme my friend sent from Sydney—never a dull moment! 😂 #FunTimes #AussieHumor,0,0.0,1.0
+1013,suicide%20bomb,"London/Lagos/FL ÌÏT: 6.6200132,","BREAKING: Massive earthquake hits Tokyo, collapsing buildings and leaving thousands trapped. Rescue efforts underway. #JapanQuake 🚨",1,0.99,0.01
+1014,suicide%20bomb,"London/Lagos/FL ÌÏT: 6.6200132,",Avalanche buries ski resort in Switzerland; at least 12 missing as search teams battle harsh conditions. #AlpineTragedy ❄️,1,0.95,0.05
+1015,suicide%20bomb,"London/Lagos/FL ÌÏT: 6.6200132,","Wildfires rage across California, forcing evacuations and destroying homes. Air quality hazardous. #NorCalFires 🔥",1,0.98,0.02
+1016,suicide%20bomb,"London/Lagos/FL ÌÏT: 6.6200132,","Tropical cyclone devastates coastal villages in Bangladesh, with floods displacing over 50,000. #MonsoonDisaster 🌊",1,0.99,0.01
+1017,rescue,#HarleyChick#PJNT#RunBenRun,Just adopted the sweetest tabby cat from Tokyo Tails Shelter! 🐱 #AdoptDontShop #PetLove | https://t.co/xyz123,0,0.0,1.0
+1018,rescue,#HarleyChick#PJNT#RunBenRun,Sunset walks with my golden retriever in Cape Town are pure bliss. 🌅 #DogLife #NatureLovers,0,0.0,1.0
+1019,rescue,#HarleyChick#PJNT#RunBenRun,New study reveals urban gardens in Berlin boost biodiversity by 30%. 🌿 #GreenCities #Sustainability | https://t.co/abc456,0,0.0,1.0
+1020,rescue,#HarleyChick#PJNT#RunBenRun,Baking sourdough in Vancouver is my weekend therapy. Fresh loaf coming up! 🍞 #HomeBaking #SlowLiving,0,0.0,1.0
+1021,hijacking,Brazil,Exploring the vibrant street art scene in Lisbon today! So much creativity around every corner. #UrbanArt #PortugalVibes 🌍,0,0.0,1.0
+1022,hijacking,Brazil,Just discovered a hidden gem cafe in Tokyo with the best matcha latte I've ever tasted. #HiddenGems #JapanTravel 🍵,0,0.0,1.0
+1023,hijacking,Brazil,The northern lights in Iceland last night were absolutely magical. Nature's finest light show! #AuroraBorealis #BucketList ✨,0,0.0,1.0
+1024,hijacking,Brazil,Learning to make authentic paella in Valencia. The secret? Saffron and patience! #SpanishCuisine #FoodieAdventures 🥘,0,0.0,1.0
