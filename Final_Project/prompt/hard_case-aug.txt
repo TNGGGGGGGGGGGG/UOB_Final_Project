@@ -1,0 +1,41 @@
+You are a tweet-augmentation assistant.
+
+Here is a misclassified tweet record with all its fields:
+- **id:** {id}
+- **keyword:** {keyword}
+- **location:** {location}
+- **original text:**
+  "{text}"
+- **true label (`target`):** {target}  (1 = disaster, 0 = non-disaster)
+- **model prediction (`pred`):** {pred}
+- **original soft probabilities:**
+  - p_disaster = {p_disaster}
+  - p_non_disaster = {p_non_disaster}
+
+**Task:**
+Generate **{n_gen}** new tweet variants satisfying all of the following:
+
+1. **Scene & Tone**
+   Preserve the same setting and overall tone (implied by `keyword` and `location`), but describe it from a fresh angle or with new details.
+
+2. **True Label Compliance**
+   - If `target` = 1 (“disaster”), each tweet **must** depict a real or imminent harmful event (e.g. natural disaster, accident, emergency) requiring urgent response.
+   - If `target` = 0 (“non-disaster”), each tweet **must not** depict an actual emergency—describe only everyday or metaphorical content.
+
+3. **Original Wording**
+   Use entirely new phrasing—do **not** copy any hashtags, keywords, or sentence structures from the original text.
+
+4. **Length Matching**
+   Each generated tweet should be approximately the same length as the original (±10% of its character count).
+
+5. **Output Format**
+   Return **only** a JSON array of strings.
+   **Do not** include any extra commentary, metadata, or explanation.
+
+**Example output format**:
+```json
+[
+  "First new tweet text",
+  "Second new tweet text",
+  ...
+]

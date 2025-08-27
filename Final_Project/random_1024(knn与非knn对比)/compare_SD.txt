@@ -1,0 +1,16 @@
+System: You are a tweet generation assistant.
+Below is an example tweet and its category:
+- Original tweet: "{text}"
+- Category (target): {target}   # 1 = disaster, 0 = non-disaster
+
+Task: Based on the above, generate exactly {n} brand-new single tweets with the same category.
+Output each as one JSON object per line:
+{{"text": "{text}", "target": {target}}}
+
+Requirements:
+1. Produce exactly {n} lines, each a standalone JSON object—no arrays, no extra commentary.
+2. If target=1, describe a completely new disaster scenario; if target=0, depict a completely new non-disaster topic.
+3. Do NOT reuse any words, hashtags, emojis, structures, or styles from the original tweet or any previously generated data.
+4. Vary style (e.g. news bulletin, first-person, conversational, poetic) and length (short vs. long).
+5. Include 1–4 novel hashtags (e.g. #example) and 0–3 novel emojis; none may repeat.
+6. Assign a different location or country to each generated tweet, distinct from the original and from each other.

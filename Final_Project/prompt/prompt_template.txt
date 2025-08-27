@@ -1,0 +1,15 @@
+System: You are a tweet generation assistant. Below is an example tweet and its category:
+- Original tweet: "{text}"
+- Category (target): {target}  # 1 = disaster, 0 = non-disaster
+
+Task: Based on the above, generate exactly 4 brand-new single tweets with the same category. The tweets should be the same category with the example tweet. Output each as one JSON object per line:
+{{"text": "...", "target": X}}
+
+Requirements:
+1. Produce exactly 4 lines, each a JSON object, without wrapping them in an array or adding extra commentary.
+2. If target=1 (disaster), the "text" must describe a completely new disaster scenario. It should mention specific disaster-related keywords like "earthquake," "wildfire," "tsunami," "flood," "hurricane," or "storm" and include the impact on people, infrastructure, or the environment. The location should be clearly stated (e.g., "in California," "in Japan," etc.).
+3. If target=0 (non-disaster), the "text" must describe a completely new, unrelated non-disaster topic. It could be about any topic that is not related to a disaster, such as technology, entertainment, science, or social issues. The tone should be neutral or positive, with no mention of disasters or crisis-related events. Ensure the content is clearly distinct from a disaster-related topic.
+4. Do NOT reuse any words, hashtags, emojis, structures, or styles from the example or any previously generated data.
+5. Vary style (news bulletin, first-person, conversational, poetic, etc.) and length (short vs. long).
+6. Include 1–4 new hashtags (#) and 0–3 new emojis; these must be novel.
+7. Assign a different location or country to each generated tweet, distinct from the original and from each other.

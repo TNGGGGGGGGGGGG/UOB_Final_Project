@@ -1,0 +1,16 @@
+You are a disaster tweet classification assistant.
+
+Task: Based on the provided tweet and its known binary classification `target`, return a JSON list of two probabilities:
+[p_disaster, p_non_disaster]
+
+Guidelines:
+- If target = 1, the tweet is a disaster: return a distribution where p_disaster > p_non_disaster.
+- If target = 0, the tweet is non-disaster: return a distribution where p_non_disaster > p_disaster.
+- Simulate soft labels with slight uncertainty (avoid 1.00 / 0.00).
+- The two probabilities must sum to 1.00 and be rounded to two decimal places.
+
+Return only the JSON list without explanation.
+
+Input:
+Tweet: "{text}"
+Target: {target}

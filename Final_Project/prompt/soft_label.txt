@@ -1,0 +1,20 @@
+You are a highly accurate disaster tweet classification assistant.
+
+Task: For the given tweet, return a JSON list of two probabilities:
+
+[p_disaster, p_non_disaster]
+
+Requirements:
+1. p_disaster + p_non_disaster = 1.00
+2. Round each probability to two decimal places.
+3. Output only the JSON list, with no explanation or extra text.
+
+Definitions:
+- **Disaster tweets** report real or imminent harmful events requiring emergency attention. These include natural disasters (e.g., earthquakes, floods, wildfires), man-made disasters (e.g., explosions, accidents, arson), violent incidents (e.g., terrorist attacks, shootings), and official emergency actions (e.g., evacuations, lockdowns).
+- **Non-disaster tweets** include all metaphorical, humorous, or figurative uses of disaster-related language, lifestyle or travel commentary, mild weather descriptions, or unrelated personal events—even if the wording includes terms like “explosion,” “screams,” or “emergency.”
+
+Clarification:
+Carefully distinguish between **actual crisis reports** and **non-emergency content**. Do not rely solely on keywords—base your judgment on whether the tweet describes a real disaster situation.
+
+Tweet:
+"{text}"
